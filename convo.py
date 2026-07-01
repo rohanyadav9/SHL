@@ -38,12 +38,6 @@ class ConversationManager:
         ) as f:
             self.system_prompt = f.read()
 
-        with open(
-            "prompts/responder.txt",
-            "r",
-            encoding="utf8"
-        ) as f:
-            self.responder_prompt = f.read()
 
         self.sessions = {}
 
@@ -57,7 +51,17 @@ class ConversationManager:
 
         session_id = str(uuid.uuid4())
 
-        self.sessions[session_id] = []
+        self.sessions[session_id] = {
+
+            "messages": [],
+
+            "mode": "discovery",
+
+            "selected_assessments": [],
+
+            "family": None
+
+        }
 
         return session_id
 
@@ -73,7 +77,7 @@ class ConversationManager:
 
     def get_history(self, session_id):
 
-        return self.sessions.get(session_id, [])
+        return self.sessions[session_id]["messages"]
 
     ##########################################################
 
@@ -84,17 +88,13 @@ class ConversationManager:
         content
     ):
 
-        self.sessions[session_id].append(
+        self.sessions[session_id]["messages"].append({
 
-            {
+            "role": role,
 
-                "role": role,
+            "content": content
 
-                "content": content
-
-            }
-
-        )
+        })
 
     ##########################################################
     # PROMPT
@@ -191,12 +191,109 @@ class ConversationManager:
     ##########################################################
     # CHAT
     ##########################################################
-    
-    def get_assessments(self,urls):
+    def chat(self,session_id,user_message):
+
+        if session_id not in self.sessions:
+
+            self.sessions[session_id] = {
+
+                "messages": [],
+
+                "mode": "discovery",
+
+                "selected_assessments": [],
+
+                "family": None
+
+            }
+
+        state=self.sessions[session_id]
+
+        self.add_message(
+            session_id,
+            "user",
+            user_message
+        )
+
+    ##################################################
+    # DISCOVERY MODE
+    ##################################################
+
+        if state["mode"]=="discovery":
+
+            result=self.ask_orchestrator(
+                session_id,
+                user_message
+            )
+
+            if not result["ready"]:
+
+                self.add_message(
+                    session_id,
+                    "assistant",
+                    result["question"]
+                )
+
+                return{
+                    "status":"clarify",
+                    "message":result["question"]
+                }
+
+            state["mode"]="consultation"
+
+            state["family"]=result["family"]
+
+            state["selected_assessments"]=result["candidate_assessments"]
+
+            self.add_message(
+                session_id,
+                "assistant",
+                result["reply"]
+            )
+
+            return{
+                "status":"ready",
+                "message":result["reply"]
+            }
+
+    ##################################################
+    # CONSULTATION MODE
+    ##################################################
+
+        return self.consultation_chat(
+            session_id,
+            user_message
+    )
+
+    def consultation_chat(self,session_id,user_message):
+
+        state=self.sessions[session_id]
+
+        prompt="""
+
+            You are an SHL Recruitment Consultant.
+
+            The user has already received an assessment recommendation.
+
+            Continue the conversation naturally.
+
+            Answer follow-up questions.
+
+            Do not restart the interview.
+
+            Do not ask clarification questions again unless the user completely changes the hiring requirement.
+
+            Selected Assessment Family:
+
+        """
+
+        prompt+=state["family"]
 
         pages=[]
 
-        for url in urls:
+        for assessment in state["selected_assessments"]:
+
+            url=assessment["url"]
 
             for page in self.database["pages"]:
 
@@ -206,90 +303,39 @@ class ConversationManager:
 
                     break
 
-        return pages
-
-
-    def ask_responder(self,session_id,pages):
-
-        prompt=self.responder_prompt
-
-        prompt+="\n\nConversation History\n\n"
-
-        for msg in self.get_history(session_id):
-
-            prompt+=f"{msg['role']}: {msg['content']}\n"
-
-        prompt+="\nAssessment Pages\n\n"
+        prompt+="\n\nAssessment Details\n\n"
 
         prompt+=json.dumps(
             pages,
             indent=2
         )
 
+        prompt+="\n\nConversation\n\n"
+
+        for msg in state["messages"]:
+
+            prompt+=f"{msg['role']}: {msg['content']}\n"
+
         response=self.client.models.generate_content(
+
             model=self.model,
+
             contents=prompt
+
         )
 
-        text=response.text.strip()
-
-        if text.startswith("```json"):
-            text=text[7:]
-
-        if text.endswith("```"):
-            text=text[:-3]
-
-        return json.loads(text)
-    
-
-    def chat(self, session_id, user_message):
-
-        if session_id not in self.sessions:
-
-            self.sessions[session_id] = []
-
-        self.add_message(
-            session_id,
-            "user",
-            user_message
-        )
-
-        result = self.ask_orchestrator(
-            session_id,
-            user_message
-        )
-
-        if not result["ready"]:
-
-            self.add_message(
-                session_id,
-                "assistant",
-                result["question"]
-            )
-
-            return {
-                "question": result["question"],
-            }
-
-        pages = self.get_assessments(
-            [
-                x["url"]
-                for x in result["candidate_assessments"]
-            ]
-        )
-
-        reply = self.ask_responder(
-            session_id,
-            pages
-        )
+        answer=response.text.strip()
 
         self.add_message(
             session_id,
             "assistant",
-            reply["reply"]
+            answer
         )
 
-        return {
-            "status": "ready",
-            "message": reply["reply"]
+        return{
+
+            "status":"ready",
+
+            "message":answer
+
         }
