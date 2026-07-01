@@ -1,0 +1,1505 @@
+{
+    "pages": [
+        {
+            "id": 1,
+            "url": "https://www.shl.com/products/assessments/",
+            "title": "World-Class Talent Assessments and Skill Tests",
+            "page_type": "category",
+            "summary": "Our unmatched portfolio of talent assessment tools helps you to clearly map employees and their skills to specific business needs and outcomes.",
+            "parent": "Products",
+            "children": [
+                {
+                    "title": "Behavioral Assessments",
+                    "url": "https://www.shl.com/products/assessments/behavioral-assessments/"
+                },
+                {
+                    "title": "Virtual Assessment & Development Centers",
+                    "url": "https://www.shl.com/products/assessments/assessment-and-development-centers/"
+                },
+                {
+                    "title": "Personality Assessments",
+                    "url": "https://www.shl.com/products/assessments/personality-assessment/"
+                },
+                {
+                    "title": "Cognitive Assessments",
+                    "url": "https://www.shl.com/products/assessments/cognitive-assessments/"
+                },
+                {
+                    "title": "Skills and Simulations",
+                    "url": "https://www.shl.com/products/assessments/skills-and-simulations/"
+                },
+                {
+                    "title": "Job Focused Assessments",
+                    "url": "https://www.shl.com/products/assessments/job-focused-assessments/"
+                }
+            ],
+            "knowledge": {
+                "overview": "Evaluate candidate fit, readiness, and potential with an unmatched portfolio of personality tests, skills assessments, and job simulations.",
+                "important_points": [],
+                "features": [
+                    "Patented assessments developed by 300+ people scientists",
+                    "Actionable, timely insights for hiring",
+                    "Interactive and realistic assessments",
+                    "Personality tests (e.g., Occupational Personality Questionnaire - OPQ)",
+                    "Skills assessments",
+                    "Job simulations",
+                    "Behavioral assessments",
+                    "Cognitive assessments (e.g., Verify)",
+                    "Job-Focused Assessments (JFA)",
+                    "Virtual Assessment & Development Centers (VADC)"
+                ],
+                "benefits": [
+                    "Make Wise Talent Decisions: Evaluate job-related behaviors, skills, and competencies to hire high-quality talent.",
+                    "Drive Hiring Efficiency: Provide actionable, timely insights to accelerate hiring while driving objectivity and fairness in people decisions.",
+                    "Delight Your Candidates: Prioritize candidate experiences to engage and excite with interactive, realistic assessments and job simulations."
+                ],
+                "faq": [
+                    {
+                        "question": "What is the SHL OPQ?",
+                        "answer": "The Occupational Personality Questionnaire (OPQ) is SHL's flagship personality assessment, widely used to predict how a candidate's preferred personal style impacts their workplace behavior. It provides insights into an individual's potential by matching their preferences to role requirements and is backed by science with strong predictive accuracy."
+                    },
+                    {
+                        "question": "Are SHL assessments reliable?",
+                        "answer": "SHL's adherence to legal and scientific standards ensures that its assessments are developed and validated to be fair, reliable, and appropriate for their intended purposes in selection processes. The reliability of SHL assessments is reviewed during test development as well as a part of ongoing test maintenance practices. We document the reliability of our assessments (e.g., through test-retest and internal consistency methods) in our technical manuals."
+                    },
+                    {
+                        "question": "What are psychometric assessments?",
+                        "answer": "Psychometric assessments are standardized tests designed to assess candidates' cognitive abilities, personality traits, job-related skills and behavioral styles. They help organizations understand how candidates may perform in specific roles. SHL assessments are scientifically developed tools built on psychometric principles, ensuring they are reliable, valid, and suitable for making informed talent decisions."
+                    },
+                    {
+                        "question": "Why should I use psychometric assessments?",
+                        "answer": "Psychometric assessments offer objective and reliable insights into candidates' individual differences such as skills, abilities, personality traits, and potential, enabling organizations to make informed talent decisions. They help ensure a strong fit for specific roles and promote fairness by reducing bias. When applied consistently throughout the talent lifecycle, these assessments provide valuable data for strategic talent decisions, enhancing organizational agility and maximizing workforce effectiveness."
+                    },
+                    {
+                        "question": "Can psychometric assessments be tailored for an organization?",
+                        "answer": "Yes, many providers, including SHL, can offer fully customizable assessments that align with your organization's specific competencies, values, and culture so that you get exactly what you need out of your talent processes."
+                    },
+                    {
+                        "question": "Is it better to use psychometric assessments or AI to collect talent data?",
+                        "answer": "While AI-inferred talent data may offer some value, it is often less reliable and may introduce inaccuracies. Psychometric assessments, on the other hand, provide a more objective and scientifically validated understanding of what a candidate can do. In practice, AI-inferred data might be combined with psychometric data, but for robust and defensible decision-making, psychometric tools offer greater reliability and value."
+                    },
+                    {
+                        "question": "Are SHL assessments valid?",
+                        "answer": "SHL's adherence to legal and scientific standards ensures that its assessments are developed and validated to be fair, reliable, and appropriate for their intended purposes in selection processes. Information and evidence regarding the content, construct, and criterion-related validity of our assessments is documented in our technical manuals. However, the validity of these assessments depends on their proper use, which is beyond our control. We advise users to adhere to best practices to ensure accurate and fair outcomes."
+                    },
+                    {
+                        "question": "Are SHL assessments fair?",
+                        "answer": "SHL's adherence to legal and scientific standards ensures that its assessments are developed and validated to be fair, reliable, and appropriate for their intended purposes in selection processes. Our technical manuals summarize the analyses conducted to support the use of our assessments across and within protected groups."
+                    }
+                ],
+                "metadata": {
+                    "duration": "",
+                    "remote_testing": "True",
+                    "adaptive": "",
+                    "languages": "",
+                    "job_levels": "",
+                    "assessment_type": [
+                        "Psychometric",
+                        "Personality",
+                        "Behavioral",
+                        "Cognitive",
+                        "Skills-based",
+                        "Job Simulation",
+                        "Assessment/Development Center"
+                    ]
+                }
+            },
+            "metadata": {
+                "crawl_time": "2026-07-01 15:20:03",
+                "model": "gemini-2.5-flash",
+                "status": "success"
+            }
+        },
+        {
+            "id": 2,
+            "url": "https://www.shl.com/products/assessments/behavioral-assessments/",
+            "title": "SHL Behavioral Assessments",
+            "page_type": "category",
+            "summary": "SHL's Behavioral Assessments help organizations identify candidates' behavioral fit for roles through engaging, interactive tests, leading to higher quality hires and increased efficiency.",
+            "parent": "Assessments",
+            "children": [
+                {
+                    "title": "Global Skills Assessment (GSA)",
+                    "url": "https://www.shl.com/products/assessments/behavioral-assessments/global-skills-assessment-gsa/"
+                },
+                {
+                    "title": "Universal Competency Framework (UCF)",
+                    "url": "https://www.shl.com/products/assessments/behavioral-assessments/universal-competency-framework/"
+                },
+                {
+                    "title": "Realistic Job Previews",
+                    "url": "https://www.shl.com/products/assessments/behavioral-assessments/realistic-job-and-culture-previews-rjp/"
+                },
+                {
+                    "title": "Situational Judgement Tests",
+                    "url": "https://www.shl.com/products/assessments/behavioral-assessments/situation-judgement-tests-sjt/"
+                }
+            ],
+            "knowledge": {
+                "overview": "SHL's Behavioral Assessments are designed to help companies measure behavioral fit and increase candidate commitment. These assessments, including realistic job previews and situational judgment tests, provide engaging experiences for candidates while efficiently sifting the applicant pool for best-fit individuals at scale. The platform utilizes animation, interactive videos, and branded multimedia to keep candidates engaged, ensuring they get a realistic feel for the role and culture before committing.",
+                "important_points": [
+                    "Measures behavioral fit and increases commitment.",
+                    "Increases the efficiency of your assessment program.",
+                    "Thrills candidates with interactive, immersive behavioral tests."
+                ],
+                "features": [
+                    "Global Skills Assessment (GSA) measuring 96 behavioral skills",
+                    "Universal Competency Framework (UCF) for understanding workplace behaviors",
+                    "Realistic Job Previews with scenario-based quizzes",
+                    "Situational Judgment Tests (SJT) with immersive, interactive scenarios",
+                    "Mobile-first technology for accessibility on any device",
+                    "Engaging content including animation, interactive videos, and branded multimedia"
+                ],
+                "benefits": [
+                    "Boosts the quality of hires for every role",
+                    "Identifies candidates' behavioral fit to specific roles and organizational culture",
+                    "Reduces the risk of assessing candidates who are not a role or cultural fit",
+                    "Saves recruitment teams time and money",
+                    "Provides objective data for onboarding, upskilling, reskilling, and workforce planning",
+                    "Offers effective screening at scale",
+                    "Gives a rational, consistent, and practical understanding of people’s behaviors at work and their potential for success"
+                ],
+                "faq": [
+                    {
+                        "question": "When can I use SHL’s Behavioral Assessments?",
+                        "answer": "You can use our behavioral assessments to introduce candidates to your organization and discover their fit, which often happens at the start of the hiring process."
+                    },
+                    {
+                        "question": "Are Behavioral Assessments available on mobile?",
+                        "answer": "All our Behavioral Assessments are designed with mobile-first technology to enable candidates to easily complete them anywhere, at any time, on any device."
+                    },
+                    {
+                        "question": "What reports are available from the Behavioral Assessments?",
+                        "answer": "SHL uses a match score to provide you with an overview of how a candidate will perform in a specific role."
+                    }
+                ],
+                "metadata": {
+                    "duration": null,
+                    "remote_testing": true,
+                    "adaptive": null,
+                    "languages": null,
+                    "job_levels": null,
+                    "assessment_type": "Behavioral Assessments"
+                }
+            },
+            "metadata": {
+                "crawl_time": "2026-07-01 15:20:21",
+                "model": "gemini-2.5-flash",
+                "status": "success"
+            }
+        },
+        {
+            "id": 3,
+            "url": "https://www.shl.com/products/assessments/behavioral-assessments/global-skills-assessment-gsa/",
+            "title": "Global Skills Assessment (GSA)",
+            "page_type": "assessment",
+            "summary": "The SHL Global Skills Assessment (GSA) measures 96 behavioral skills in approximately 15 minutes, providing objective and consistent skills data for every talent decision, from hiring and onboarding to upskilling, reskilling, and workforce planning. It is built on SHL's Universal Competency Framework, enabling fair comparisons and a unified view of skills across organizations.",
+            "parent": {
+                "title": "Behavioral Assessments",
+                "url": "https://www.shl.com/products/assessments/behavioral-assessments/"
+            },
+            "children": [],
+            "knowledge": {
+                "overview": "The SHL Global Skills Assessment (GSA) offers organizations a consistent, science-based view of 96 behavioral skills across candidates and employees, all built upon SHL’s Universal Competency Framework (UCF). This single, validated framework provides a shared language for understanding individual and team strengths, identifying skill gaps, and pinpointing behaviors that drive performance. By creating a unified picture of skills across the organization, the GSA enables fair comparisons, scalable capability understanding, and a strong foundation for targeted development, internal mobility, and long-term strategic workforce planning.",
+                "important_points": [
+                    "Measures 96 behavioral skills.",
+                    "Takes approximately 15 minutes to complete.",
+                    "Built on SHL's Universal Competency Framework (UCF) for a consistent and universal skills language.",
+                    "Uses a simple, forced-choice format to capture authentic workplace behavior and reduce response bias.",
+                    "Applicable for both talent acquisition (hiring, onboarding) and talent management (development, internal mobility, upskilling, reskilling, workforce planning).",
+                    "Offers a 'Reskilling Potential' add-on to identify individuals' willingness and ability to successfully upskill into new roles.",
+                    "Provides various reports tailored to specific use cases, including individual development insights and HR team reports for selection.",
+                    "Globally normed with representative samples across job levels and geographies, enabling consistent comparisons.",
+                    "Designed to be EEOC compliant and legally defensible, with documented job relevance.",
+                    "Supported by 15+ independent validation studies demonstrating its ability to predict supervisor-rated performance and productivity.",
+                    "Can be integrated with the SHL AI Readiness Profile to assess an individual's readiness for an AI-powered environment."
+                ],
+                "features": [
+                    "Measures all 96 skills within the SHL Universal Competency Framework.",
+                    "Forced-choice assessment format.",
+                    "Produces tailored reports: individual development insights, HR reports for single candidates or aggregated groups, structured interview guides, and role-aligned talent profiles.",
+                    "Reskilling Potential add-on available.",
+                    "Globally normed.",
+                    "EEOC compliant design.",
+                    "Legally defensible methodology.",
+                    "Integration with SHL AI Readiness Profile."
+                ],
+                "benefits": [
+                    "Provides objective and consistent skills data for all talent decisions.",
+                    "Creates a shared, universal language for understanding workplace behaviors across the organization.",
+                    "Enables fair and consistent comparison of talent, both internally and externally.",
+                    "Offers organization-wide visibility into capabilities and skill gaps.",
+                    "Guides targeted development and onboarding from day one.",
+                    "Facilitates strategic internal mobility and proactive workforce planning.",
+                    "Reduces response bias, ensuring more authentic insights into behavior.",
+                    "Supports legal compliance and defensible decision-making in talent processes.",
+                    "Empowers organizations to identify and develop high-potential employees for future roles and opportunities.",
+                    "Helps in understanding and building capability for an AI-powered work environment."
+                ],
+                "faq": [
+                    {
+                        "question": "We already have our own competency framework. Why would we use the SHL Universal Competency Framework (UCF)?",
+                        "answer": "Most organizations have multiple frameworks—one for hiring, another for performance, a third for leadership. The UCF gives you a single, validated framework that works across all of them. You can map your existing frameworks to the UCF (we help with this), which means you finally get consistent, comparable data. Plus, the UCF’s Skills Taxonomy is normed globally and mapped to 600+ O*NET profiles and 55,000 job titles, something custom frameworks can't match."
+                    },
+                    {
+                        "question": "How does this help with upskilling and reskilling?",
+                        "answer": "The GSA reveals individual strengths and skills gaps, making it clear where development is needed. It also identifies employees with high adaptability and ability to learn, those most ready to reskill into new roles as business needs evolve. This turns skills data into targeted development actions at individual, team, and organizational levels."
+                    },
+                    {
+                        "question": "How does skills data from hiring get used later in development or mobility?",
+                        "answer": "Skills data collected during hiring remain accessible throughout the employee lifecycle. The same objective profile that informed the hiring decision becomes the foundation for onboarding conversations, development planning, and internal movement—no repeat assessment required."
+                    },
+                    {
+                        "question": "Is there evidence the GSA predicts performance?",
+                        "answer": "Yes. 15+ independent validation studies across industries show GSA composites consistently predict supervisor-rated performance and productivity."
+                    },
+                    {
+                        "question": "What does \"globally normed\" mean for my organization?",
+                        "answer": "Global norms allow comparison across job levels, roles, and geographies using the same benchmark—whether you're assessing 50 people in one location or 50,000 across a global workforce."
+                    }
+                ],
+                "metadata": {
+                    "duration": "15 minutes",
+                    "remote_testing": "Unknown",
+                    "adaptive": "Unknown",
+                    "languages": "Unknown",
+                    "job_levels": "All levels",
+                    "assessment_type": "Behavioral Assessment, Skills Assessment"
+                }
+            },
+            "metadata": {
+                "crawl_time": "2026-07-01 15:20:43",
+                "model": "gemini-2.5-flash",
+                "status": "success"
+            }
+        },
+        {
+            "id": 4,
+            "url": "https://www.shl.com/products/assessments/behavioral-assessments/universal-competency-framework/",
+            "title": "Universal Competency Framework (UCF) | SHL",
+            "page_type": "assessment",
+            "summary": "The Universal Competency Framework (UCF) provides a rational, consistent, and practical basis for understanding people’s behaviors at work and their likelihood of succeeding in certain roles and environments. Built on extensive research, it helps organizations align individual behaviors to corporate goals, build competency models, and facilitate end-to-end talent management practices.",
+            "parent": "Behavioral Assessments",
+            "children": [],
+            "knowledge": {
+                "overview": "Competencies are defined as 'sets of behaviors instrumental in the delivery of desired results,' focusing on behaviors rather than technical knowledge. The Universal Competency Framework (UCF) offers a scientific and structured approach to understanding and evaluating these behaviors. It serves as a foundational tool for building competency models across all job types and for mapping existing models. The UCF is supported by a comprehensive suite of talent management tools, including APTA™ for measuring competencies, and integrates with SHL’s broader assessment portfolio. Its application enables organizations to align individual performance with strategic objectives and identify areas of strength and development across various departments and locations.",
+                "important_points": [
+                    "Competencies are behaviors that support organizational objectives, not technical knowledge.",
+                    "The UCF provides a rational, consistent, and practical basis for understanding workplace behaviors and predicting success.",
+                    "It is constructed from extensive scientific research on workplace behaviors.",
+                    "The UCF can be used to build new competency models or map existing ones to a universal set of components.",
+                    "It facilitates end-to-end talent management by defining performance requirements and linking to assessment tools.",
+                    "SHL provides a full suite of talent management tools, including APTA™ (a patented, customizable psychological testing tool), questionnaire items, behavioral anchors, interview questions, and assessment exercises, all aligned with UCF competencies.",
+                    "Each UCF competency component is linked to SHL’s portfolio of assessments, ensuring consistent measurement.",
+                    "The framework allows organizations to align individual behaviors with group and corporate goals.",
+                    "It helps in understanding organizational strengths and areas for improvement across different departments and locations.",
+                    "The UCF has a 3-tier structure: 8 general competency factors, 20 competency dimensions, and 96 granular skills, with statistical analysis ensuring distinctness at each level.",
+                    "SHL continuously innovates the UCF, with advancements like the Universal Competency Assessment capable of measuring all 96 components in just 15 minutes."
+                ],
+                "features": [
+                    "Provides a 3-tier structure: 8 general competency factors, 20 competency dimensions, and 96 specific skills.",
+                    "Utilizes statistical analysis to ensure the discreteness of competencies across all levels.",
+                    "Supported by APTA™, a patented, customizable psychological testing tool for direct measurement of UCF competencies.",
+                    "Includes a full suite of content for talent management, such as questionnaire items, behavioral anchors, interview questions, and assessment exercises.",
+                    "Each competency component is directly linked to SHL’s comprehensive portfolio of assessments.",
+                    "Designed for building new competency models applicable to all job types, levels, and roles.",
+                    "Enables the mapping of existing competency models onto a universal set of components."
+                ],
+                "benefits": [
+                    "Defines critical behaviors necessary for success in any given role.",
+                    "Firmly linked to observable behaviors, providing clear targets for assessment and development.",
+                    "Built on empirical evidence and extensive scientific research, ensuring high validity in predicting performance.",
+                    "Offers a common, consistent framework for evaluating behaviors, potential, and performance across an organization.",
+                    "Designed with levels of behaviors, allowing flexible implementation across all organizational levels and functions.",
+                    "Provides consistent measurement, which enables meaningful validation studies and improvements over time."
+                ],
+                "faq": [],
+                "metadata": {
+                    "duration": null,
+                    "remote_testing": null,
+                    "adaptive": null,
+                    "languages": null,
+                    "job_levels": "All levels and functions",
+                    "assessment_type": "Competency Framework for Behavioral Assessments"
+                }
+            },
+            "metadata": {
+                "crawl_time": "2026-07-01 15:21:06",
+                "model": "gemini-2.5-flash",
+                "status": "success"
+            }
+        },
+        {
+            "id": 5,
+            "url": "https://www.shl.com/products/assessments/behavioral-assessments/realistic-job-and-culture-previews-rjp/",
+            "title": "Realistic Job and Culture Previews (RJP)",
+            "page_type": "assessment",
+            "summary": "SHL Realistic Job Previews (RJP) provide candidates with scenario-based quizzes featuring task and culture-based questions, allowing them to self-assess their fit with a role and your company before applying. This process aims to engage best-fit applicants and enhance recruitment efficiency by enabling conscious opt-in or opt-out decisions.",
+            "parent": {
+                "title": "Behavioral Assessments",
+                "url": "https://www.shl.com/products/assessments/behavioral-assessments/"
+            },
+            "children": [],
+            "knowledge": {
+                "overview": "SHL Realistic Job and Culture Previews (RJP) offer an immersive experience for job candidates, allowing them to understand the realities of a role and an organization's culture early in the application process. These previews are developed by SHL experts using customized scenarios, questions, and interactive, branded multimedia elements like employee video endorsements and animations. By presenting a complete and contextual view of the business, RJPs empower candidates to self-assess their suitability, leading to a more committed applicant pool and increased efficiency in recruitment by reducing the risk of shortlisting ill-fitted individuals.",
+                "important_points": [
+                    "Candidates engage in task and culture-based questions to self-assess their fit with the role and company.",
+                    "Designed to engage best-fit applicants and allow them to consciously opt-in to the application process.",
+                    "Includes immersive, branded multimedia (e.g., employee videos, animations) to provide appealing and contextual views of the business.",
+                    "Feedback is instant and for guidance only, not for overall scoring.",
+                    "Enables applicants to opt out pre-application, which reduces wasted time for both candidates and recruiters.",
+                    "Improves recruitment efficiency by streamlining the candidate selection process."
+                ],
+                "features": [
+                    "**Customized Scenarios**: SHL experts develop tailored scenarios that accurately explain and showcase specific job opportunities.",
+                    "**Interactive Multimedia**: Previews feature customized questions and interactive multimedia, fully branded to the client's organization.",
+                    "**Candidate Immersion**: Candidates are typically immersed in three or four realistic scenarios related to the job.",
+                    "**Response Selection**: Candidates choose the response they believe is most appropriate for each scenario.",
+                    "**Immediate Feedback**: Candidates receive instant feedback on their suitability and alignment with the role.",
+                    "**Progression Option**: If candidates perceive a good fit, they can proceed to the subsequent stages of the hiring journey."
+                ],
+                "benefits": [
+                    "Gain greater candidate commitment from the very beginning of the hiring process.",
+                    "Present each job opportunity as a complete and authentic picture of the role and culture.",
+                    "Increase the overall efficiency of your recruitment efforts.",
+                    "Reduce candidate drop-off later in the process by enabling self-selection.",
+                    "Enhance your employer brand and candidate advocacy through engaging and transparent previews.",
+                    "Minimize the risk of shortlisting candidates who are not a good fit for the role or organizational culture."
+                ],
+                "faq": [],
+                "metadata": {
+                    "duration": null,
+                    "remote_testing": null,
+                    "adaptive": null,
+                    "languages": null,
+                    "job_levels": null,
+                    "assessment_type": "Behavioral"
+                }
+            },
+            "metadata": {
+                "crawl_time": "2026-07-01 15:21:27",
+                "model": "gemini-2.5-flash",
+                "status": "success"
+            }
+        },
+        {
+            "id": 6,
+            "url": "https://www.shl.com/products/assessments/behavioral-assessments/situation-judgement-tests-sjt/",
+            "title": "Situational Judgment Tests (SJT)",
+            "page_type": "assessment",
+            "summary": "SHL Situational Judgment Tests (SJT) are behavioral assessments that measure a candidate's fit for a role and company culture through interactive, multimedia-rich scenarios, enabling efficient and objective screening.",
+            "parent": "Behavioral Assessments",
+            "children": [],
+            "knowledge": {
+                "overview": "SHL Situational Judgment Tests (SJTs) are a type of behavioral assessment designed to evaluate candidates' responses to typical work situations using immersive, interactive multimedia scenarios. These tests leverage consistent, objective behavioral science, tailored to specific business needs, and are typically administered early in the assessment process to provide a fully branded introduction to the company and objectively assess behavioral competency using SHL's Universal Competency Framework.",
+                "important_points": [
+                    "SJTs score candidate responses using consistent, objective behavioral science, expertly tailored to your business.",
+                    "They reliably find and secure best-fit candidates, especially when direct experience is hard to assess.",
+                    "Assessments are purpose-built for screening at scale, measuring behaviors over tasks for flexibility and future-proofing.",
+                    "Multimedia elements, from 3D animations to interactive videos, engage candidates and showcase the role and company culture.",
+                    "Behavioral fit is evaluated using SHL's Universal Competency Framework, a leading assessment of behavioral competency.",
+                    "A statistic indicates that 72% of candidates are more likely to accept an offer from a company using multimedia for their online recruitment process than just text."
+                ],
+                "features": [
+                    "Immersive and interactive work scenarios.",
+                    "Rich multimedia content, including 3D animations and interactive videos.",
+                    "Scenarios can be tailored to specific roles and cultures or drawn from SHL's existing bank.",
+                    "Objective scoring system based on behavioral science.",
+                    "Integration within most SHL talent acquisition solutions.",
+                    "Provides a fully-branded introduction to the business for candidates."
+                ],
+                "benefits": [
+                    "Measures and matches candidates’ behavioral fit to specific roles and organizational culture.",
+                    "Enables efficient and scalable candidate screening.",
+                    "Reduces the administrative burden of reviewing countless CVs.",
+                    "Saves time in the recruitment process with a cost-effective and universal approach.",
+                    "Establishes a 'psychological contract' with candidates, winning their commitment to the hiring process.",
+                    "Helps in acquiring high-quality hires.",
+                    "Easy to adjust as the organization develops due to measuring behaviors, not tasks."
+                ],
+                "faq": [],
+                "metadata": {
+                    "duration": "",
+                    "remote_testing": "",
+                    "adaptive": "",
+                    "languages": "",
+                    "job_levels": "",
+                    "assessment_type": "Situational Judgment Test (SJT)"
+                }
+            },
+            "metadata": {
+                "crawl_time": "2026-07-01 15:21:51",
+                "model": "gemini-2.5-flash",
+                "status": "success"
+            }
+        },
+        {
+            "id": 7,
+            "url": "https://www.shl.com/products/assessments/assessment-and-development-centers/",
+            "title": "Virtual Assessment and Development Centers",
+            "page_type": "assessment",
+            "summary": "Our end-to-end virtual assessment and development centers provide the most efficient and accurate way of identifying potential from anywhere in the world.",
+            "parent": {
+                "title": "Assessments",
+                "url": "/products/assessments/"
+            },
+            "children": [],
+            "knowledge": {
+                "overview": "SHL's end-to-end digital assessment and development centers offer an efficient and accurate way of identifying potential globally. Supported by a team of 300 people scientists operating in 150 countries, speaking over 40 languages, and providing 24-hour support.",
+                "important_points": [
+                    "Reduced time-to-hire by 60% across multiple global organizations.",
+                    "Shortened time-to-assess for 500 global managers by 75%.",
+                    "89% of candidates rated SHL’s digital interview experience as 'excellent'."
+                ],
+                "features": [
+                    "**Ultimate Assessment Experience**: Effortlessly organize and run your centers with a digital platform that delights participants with interactive media and a clear and engaging end-to-end process.",
+                    "**Real World Tech Assessment**: Offers the world’s broadest range of skills, psychometric, personality, and cognitive assessments, empowering people to show their potential with simulations, group exercises, client meetings, and more.",
+                    "**Accelerate Insights**: Increases the speed of hiring and development decisions with automated reports and dashboards powered by unrivaled people science."
+                ],
+                "benefits": [
+                    "Efficient and accurate identification of potential from anywhere in the world.",
+                    "Superior candidate experience through an engaging digital platform with interactive media.",
+                    "Comprehensive evaluation using a broad range of assessment types, including real-world simulations.",
+                    "Faster hiring and development decisions with automated reports and data-driven insights.",
+                    "Significant reduction in time-to-hire and time-to-assess.",
+                    "Global coverage and support with a team of 300 people scientists in 150 countries and 40+ languages."
+                ],
+                "faq": [],
+                "metadata": {
+                    "duration": "",
+                    "remote_testing": "Yes",
+                    "adaptive": "",
+                    "languages": "40+",
+                    "job_levels": "Managerial (explicitly mentioned for one use case), and various levels for talent identification and development.",
+                    "assessment_type": "Behavioral, Cognitive, Personality, Skills, Simulations, Group Exercises, Client Meetings, Digital Interviews"
+                }
+            },
+            "metadata": {
+                "crawl_time": "2026-07-01 15:22:07",
+                "model": "gemini-2.5-flash",
+                "status": "success"
+            }
+        },
+        {
+            "id": 8,
+            "url": "https://www.shl.com/products/assessments/personality-assessment/",
+            "title": "Personality Assessment Test For Hiring | SHL",
+            "page_type": "category",
+            "summary": "Improve your hiring process with science-backed personality assessments that reveal each candidate’s preferences, motivations, and remote-work capability.",
+            "parent": {
+                "title": "Assessments",
+                "url": "/products/assessments/"
+            },
+            "children": [
+                {
+                    "title": "SHL Occupational Personality Questionnaire (OPQ)",
+                    "url": "/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/"
+                },
+                {
+                    "title": "SHL Motivational Questionnaire (MQ)",
+                    "url": "/products/assessments/personality-assessment/shl-motivation-questionnaire-mq/"
+                }
+            ],
+            "knowledge": {
+                "overview": "SHL Personality Assessments offer science-backed personality tests designed to improve hiring by revealing candidates' preferences, motivations, and remote-work capability. These assessments are applicable across various stages of the talent journey, including recruitment, selection, teambuilding, individual and team development, and strategic succession planning and transitions.",
+                "important_points": [
+                    "Evaluate hundreds or thousands of candidates quickly and confidently identify those most likely to succeed in every open role.",
+                    "Gain insights to improve each team member’s performance and identify their strengths and development needs.",
+                    "Leverage science-backed predictive power to identify and develop future leaders.",
+                    "Provide input into redeployment and realignments related to strategic company changes."
+                ],
+                "features": [
+                    "Engaging, mobile-first technology for easy access anytime, anywhere.",
+                    "Online administration for all psychometric tests.",
+                    "Option to enable remote proctoring for virtually supervised environments.",
+                    "Wide variety of automated, easy-to-read and understand reports for both participants and managers.",
+                    "Accessibility features including color-contrast amendments and guidance for additional options."
+                ],
+                "benefits": [
+                    "Improve hiring decisions with objective, science-backed insights into candidate personality.",
+                    "Produce accurate and fair assessments of each worker’s potential.",
+                    "Align individual working preferences to specific business requirements.",
+                    "Match each individual’s personal motivation to team and organizational goals.",
+                    "Build an engaged, high-performing workforce.",
+                    "Confidently identify and develop future leaders and support strategic organizational changes."
+                ],
+                "faq": [
+                    {
+                        "question": "When can I use Personality Assessments?",
+                        "answer": "You can use the OPQ, MQ and RWQ at any stage of the candidate journey, whether you are recruiting, developing or just want to better understand your workforce."
+                    },
+                    {
+                        "question": "Are these personality tests available on mobile?",
+                        "answer": "All our psychometric tests are designed with engaging, mobile-first technology, so candidates can easily initiate and complete them from anywhere and at any time."
+                    },
+                    {
+                        "question": "What reports are available from these Personality Assessments?",
+                        "answer": "SHL’s personality assessments offer a wide variety of automated reports, for both participants and managers, that are easy to read and understand."
+                    },
+                    {
+                        "question": "What accessibility features are available for these personality tests?",
+                        "answer": "Our personality assessments allow users to make color-contrast amendments, and there is guidance available for any candidates who may require or desire additional accessibility options."
+                    },
+                    {
+                        "question": "How are these assessments administered?",
+                        "answer": "All our psychometric tests are administered online. There is also an option to enable our remote proctoring capability, to administer the assessments within a virtually supervised environment."
+                    }
+                ],
+                "metadata": {
+                    "duration": "",
+                    "remote_testing": "Yes",
+                    "adaptive": "",
+                    "languages": "",
+                    "job_levels": "All levels (Recruitment, Teambuilding, Development, Succession, Future Leaders)",
+                    "assessment_type": "Personality Assessment, Psychometric Test"
+                }
+            },
+            "metadata": {
+                "crawl_time": "2026-07-01 15:22:24",
+                "model": "gemini-2.5-flash",
+                "status": "success"
+            }
+        },
+        {
+            "id": 9,
+            "url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/",
+            "title": "SHL Occupational Personality Questionnaire (OPQ)",
+            "page_type": "assessment",
+            "summary": "SHL’s Occupational Personality Questionnaire (OPQ) provides accurate, insightful, and bias-free assessments of potential by matching individual working preferences to business requirements, helping improve hiring decisions and talent management.",
+            "parent": {
+                "title": "Personality Assessment",
+                "url": "https://www.shl.com/products/assessments/personality-assessment/"
+            },
+            "children": [],
+            "knowledge": {
+                "overview": "The SHL Occupational Personality Questionnaire (OPQ) helps organizations get accurate, insightful assessments of potential by matching individual working preferences directly to business requirements. SHL conducts 10 million personality assessments every year for over 3000+ SHL customers, leveraging proprietary Universal Competency Framework (UCF) science and data from over 40 years of assessments.",
+                "important_points": [
+                    "Improve hiring decisions by accurately predicting potential and making reduced-bias talent decisions.",
+                    "Provide actionable insights across the entire talent journey, from hiring to long-term development.",
+                    "Offer candidates a more rewarding and consistent assessment experience."
+                ],
+                "features": [
+                    "Assessing Candidates: Participants answer questions about their working preferences to identify strengths and areas for development within the Universal Competency Framework.",
+                    "Profile Matching: The assessment reliably matches candidate understanding to a scientifically chosen profile, tailored for hiring or development needs.",
+                    "Candidate Feedback: Hiring managers receive a comprehensive report on each candidate's fit, potential, and development gaps, integrated with SHL talent acquisition or management solutions and existing applicant tracking systems."
+                ],
+                "benefits": [
+                    "Make accurate, reduced-bias talent decisions that contribute to increased workforce diversity, impact, and retention.",
+                    "Utilize reusable OPQ test data for both hiring decisions and long-term initiatives like high-potential programs and development planning, enabling smart, performance-enhancing decisions throughout an employee's lifecycle.",
+                    "Deliver a delightful and consistent occupational personality test experience for candidates, irrespective of their device, while providing powerful and consistent insights to the organization."
+                ],
+                "faq": [],
+                "metadata": {
+                    "duration": "20 minutes",
+                    "remote_testing": null,
+                    "adaptive": null,
+                    "languages": "37 languages",
+                    "job_levels": null,
+                    "assessment_type": "Personality Assessment"
+                }
+            },
+            "metadata": {
+                "crawl_time": "2026-07-01 15:22:40",
+                "model": "gemini-2.5-flash",
+                "status": "success"
+            }
+        },
+        {
+            "id": 10,
+            "url": "https://www.shl.com/products/assessments/personality-assessment/shl-motivation-questionnaire-mq/",
+            "title": "SHL Motivational Questionnaire",
+            "page_type": "assessment",
+            "summary": "Build an engaged, high-performing workforce using our motivation questionnaire (MQ) by matching individual employee motivation to team and organizational goals.",
+            "parent": "Personality Assessment",
+            "children": [],
+            "knowledge": {
+                "overview": "The SHL Motivation Questionnaire (MQ) is a personality assessment designed to unpack the complex motivations of your workforce. It measures 18 dimensions to comprehensively profile the factors that align employee motivation with performance, specific to your business. It is used to identify candidate fit, improve employee engagement and retention, and inform various talent initiatives across the employee lifecycle.",
+                "important_points": [
+                    "Measures 18 dimensions to comprehensively profile employee motivation.",
+                    "Used by over 1200 clients to understand what drives their workforce.",
+                    "Informs hiring decisions, onboarding, high-potential programs, and development planning.",
+                    "One assessment can be utilized to drive multiple talent programs.",
+                    "Takes approximately 20 minutes to complete.",
+                    "Designed mobile-first for an engaging candidate experience.",
+                    "Available in 20+ languages.",
+                    "Can be taken in any location, on any device, with no result deviation."
+                ],
+                "features": [
+                    {
+                        "name": "Motivation Evaluation",
+                        "description": "Participants rate a series of situations or conditions, deciding how each would affect their motivation to work."
+                    },
+                    {
+                        "name": "Candidate Profile",
+                        "description": "SHL utilizes the insights from the MQ to match the candidate with a tailored profile, leveraging expertise and considering hiring or development needs."
+                    },
+                    {
+                        "name": "Seamless Integration",
+                        "description": "Motivation assessment scores are delivered and directly integrated within SHL Talent Acquisition or Talent Management solutions for your teams."
+                    }
+                ],
+                "benefits": [
+                    "Build an engaged, high-performing workforce.",
+                    "Better identify candidate fit.",
+                    "Improve employee engagement and retention.",
+                    "Drive performance at every stage of the employee lifecycle.",
+                    "Facilitate best talent decisions through specific insights.",
+                    "Strengthen your workforce by understanding individual motivations."
+                ],
+                "faq": [],
+                "metadata": {
+                    "duration": "20 minutes",
+                    "remote_testing": "Yes",
+                    "adaptive": "",
+                    "languages": "20+",
+                    "job_levels": "",
+                    "assessment_type": "Personality Assessment, Motivation Questionnaire"
+                }
+            },
+            "metadata": {
+                "crawl_time": "2026-07-01 15:23:01",
+                "model": "gemini-2.5-flash",
+                "status": "success"
+            }
+        },
+        {
+            "id": 11,
+            "url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+            "title": "Cognitive Ability Tests | Cognitive Assessments | SHL",
+            "page_type": "category",
+            "summary": "SHL Cognitive Assessments measure candidates' potential and ability to learn, adapt, and succeed in any role with SHL Verify Interactive cognitive assessments.",
+            "parent": "Assessments",
+            "children": [],
+            "knowledge": {
+                "overview": "SHL Cognitive Assessments, branded as SHL Verify Interactive, are designed to measure a candidate's potential to learn, adapt, and perform in any role. These interactive assessments integrate numerical, deductive reasoning, and general reasoning ability tests, backed by decades of global experience. They provide valuable insights into a candidate's capacity and willingness to learn through engaging, job-relevant questions. Over 2500 clients leverage these assessments as a core component of their talent acquisition strategies.",
+                "important_points": [
+                    "SHL Cognitive Assessments combine interactive numerical, deductive reasoning, and general reasoning ability assessments.",
+                    "The assessments leverage data from decades of global experience to provide reliable insights.",
+                    "They are automated and remotely proctored, facilitating assessment at scale.",
+                    "A unique partial-scoring methodology allows for fewer questions without compromising accuracy.",
+                    "Assessments feature immersive, gamified interactions like 'drag-and-drop' while maintaining professional standards.",
+                    "SHL Verify G+ Test measures general mental ability, problem-solving, and critical reasoning capabilities.",
+                    "SHL Verify Deductive Reasoning measures the ability to draw logical conclusions from given information.",
+                    "SHL Verify Interactive – Inductive Reasoning assesses the ability to infer patterns and relationships between concepts.",
+                    "SHL Verify Interactive – Numerical Reasoning evaluates the ability to work with numbers, perform calculations, and interpret data.",
+                    "Precise cognitive ability scores are generated, which can be combined with behavioral and personality assessments for a holistic job score."
+                ],
+                "features": [
+                    "SHL Verify G+ Test: Measures general mental ability, problem-solving, and critical reasoning.",
+                    "SHL Verify Deductive Reasoning: Evaluates the ability to draw logical conclusions from provided information and complete scenarios.",
+                    "SHL Verify Interactive – Inductive Reasoning: Assesses the ability to identify patterns and understand relationships between various concepts.",
+                    "SHL Verify Interactive – Numerical Reasoning: Measures the ability to work with numbers, perform calculations, and interpret charts and graphs in different situations.",
+                    "Interactive questions organized around job-relevant principles.",
+                    "Automated and remotely proctored assessment delivery.",
+                    "Unique partial-scoring methodology for efficiency.",
+                    "Gamified interactions and 'drag-and-drop' tasks."
+                ],
+                "benefits": [
+                    "Understand candidates’ learning potential and adaptability.",
+                    "Gain insight into a candidate’s ability to learn and willingness to try new things.",
+                    "Quickly and accurately assess high volumes of candidates.",
+                    "Make confident, efficient, and reliable hiring decisions.",
+                    "Provide all candidates with truly engaging and job-relevant assessment experiences.",
+                    "Empower teams to make fair talent choices that contribute to business success."
+                ],
+                "faq": [],
+                "metadata": {
+                    "duration": null,
+                    "remote_testing": "Yes",
+                    "adaptive": null,
+                    "languages": null,
+                    "job_levels": "Any role",
+                    "assessment_type": "Cognitive Ability Test, General Mental Ability (G+), Deductive Reasoning Test, Inductive Reasoning Test, Numerical Reasoning Test"
+                }
+            },
+            "metadata": {
+                "crawl_time": "2026-07-01 15:35:50",
+                "model": "gemini-2.5-flash",
+                "status": "success"
+            }
+        },
+        {
+            "id": 12,
+            "url": "https://www.shl.com/products/assessments/skills-and-simulations/",
+            "title": "Skills Assessment Test | Skills Assessment Tool | SHL",
+            "page_type": "category",
+            "summary": "SHL Skills Assessments and Job Simulations help measure practical application and knowledge virtually to scale the search for highly skilled candidates. The portfolio provides far-ranging breadth across roles and industries, offering expert-validated questions and realistic job simulations.",
+            "parent": {
+                "title": "Assessments",
+                "url": "https://www.shl.com/products/assessments/"
+            },
+            "children": [
+                {
+                    "title": "Technical Skills",
+                    "url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/"
+                },
+                {
+                    "title": "Coding Simulations",
+                    "url": "https://www.shl.com/products/assessments/skills-and-simulations/coding-simulations/"
+                },
+                {
+                    "title": "Language Skills",
+                    "url": "https://www.shl.com/products/assessments/skills-and-simulations/language-evaluation/"
+                },
+                {
+                    "title": "Contact Center Simulation",
+                    "url": "https://www.shl.com/products/assessments/skills-and-simulations/call-center-simulations/"
+                },
+                {
+                    "title": "Business Skills",
+                    "url": "https://www.shl.com/products/assessments/skills-and-simulations/business-skills/"
+                }
+            ],
+            "knowledge": {
+                "overview": "SHL Skills Assessments and Job Simulations are designed to accurately measure candidates' knowledge, concepts, and practical application. They utilize expert-validated questions and realistic job simulations across a wide range of skills, from IT and language to call center and general business. These assessments are automated, remotely proctored, and can efficiently evaluate hundreds of applicants simultaneously, helping organizations reliably progress skilled candidates and allowing hiring managers to focus on talent conversion. The simulations incorporate cutting-edge technology, including integrated development environments for coding and AI-powered communication assessments, ensuring an engaging, fair, and realistic experience for candidates to demonstrate their abilities.",
+                "important_points": [
+                    "Accurately assesses knowledge, concepts, and practical application across diverse skill sets.",
+                    "Utilizes expert-validated questions and realistic job simulations.",
+                    "Leverages cutting-edge technology like integrated development environments and AI-powered communication assessments.",
+                    "Designed for a wide range of roles and industries, including IT, language, call center, business, engineering, healthcare, and clerical."
+                ],
+                "features": [
+                    "Technical Skills assessments covering 200+ specific IT skills.",
+                    "AI-powered online Coding Simulations measuring accuracy and logical correctness.",
+                    "AI-powered Language Evaluation for building multilingual workforces.",
+                    "Contact Center Simulations emulating real call center environments.",
+                    "Business Skills assessments for essential business and computer literacy.",
+                    "Automated and remotely proctored testing capabilities."
+                ],
+                "benefits": [
+                    "Scales the search for highly skilled candidates.",
+                    "Reliably progresses skilled candidates to the next hiring stage.",
+                    "Increases virtual reach to a broader candidate pool.",
+                    "Saves interviewers' time by automating initial skill validation.",
+                    "Enables hiring managers to focus on converting top talent.",
+                    "Keeps candidates engaged with fair and realistic demonstration opportunities."
+                ],
+                "faq": [],
+                "metadata": {
+                    "duration": null,
+                    "remote_testing": "Yes",
+                    "adaptive": null,
+                    "languages": null,
+                    "job_levels": null,
+                    "assessment_type": "Skills and Simulations"
+                }
+            },
+            "metadata": {
+                "crawl_time": "2026-07-01 15:36:12",
+                "model": "gemini-2.5-flash",
+                "status": "success"
+            }
+        },
+        {
+            "id": 13,
+            "url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+            "title": "Technical Skill Assessment | Assess Technical Knowledge | SHL",
+            "page_type": "category",
+            "summary": "SHL Technical Skills assessment helps you to measure knowledge of over 200 technology concepts in less than 15 minutes for roles such as Full Stack, Front-end, Data Science, DevOps, and more. It comprehensively evaluates technical talent through multiple-choice questions and programming simulations across various IT domains.",
+            "parent": "Skills & Simulations",
+            "children": [],
+            "knowledge": {
+                "overview": "SHL technical skills assessments enable fast and simple evaluation of technical talent, covering over 200 key skills in under 15 minutes. These assessments use multiple-choice questions to comprehensively evaluate knowledge in various technical concepts including Cloud Engineering, Data Engineering, DevOps, Data Science, and Machine Learning.",
+                "important_points": [
+                    "Measures knowledge of 200+ technology concepts.",
+                    "Completed in less than 15 minutes.",
+                    "Evaluates candidates through multiple-choice questions.",
+                    "Supports hiring for roles like Full Stack, Front-end, Data Science, and DevOps."
+                ],
+                "features": [
+                    "Assessments for Data Science, Machine Learning, and Data Engineering roles, including programming simulations and applied tests for technologies like Hadoop, Spark, Tableau, and MongoDB.",
+                    "Evaluates Full Stack Software Development skills across front-end (HTML/CSS, JavaScript, jQuery, AngularJS), backend, and database technologies (MySQL, PHP).",
+                    "Tests knowledge of Cloud Technologies, including cloud computing, various cloud service models, virtualization, and private clouds.",
+                    "Features a compiler-integrated platform for Software Engineering to evaluate coding skills in real-time (write, compile, execute code).",
+                    "Provides applied assessments for Database Technologies, covering DBMS and languages such as SQL, MySQL, SQL Server, and PL/SQL.",
+                    "Assesses DevOps skills related to managing technology deployment and monitoring using cloud technologies, web services, systems, and network management."
+                ],
+                "benefits": [
+                    "Rapid and straightforward technical skill evaluation.",
+                    "Broad IT coverage to screen a wide range of technical talent.",
+                    "Comprehensive and in-depth assessment of technical knowledge."
+                ],
+                "faq": [],
+                "metadata": {
+                    "duration": "Less than 15 minutes",
+                    "remote_testing": "",
+                    "adaptive": "",
+                    "languages": "",
+                    "job_levels": "",
+                    "assessment_type": "Technical Skill Assessment (Multiple Choice, Programming Simulations)"
+                }
+            },
+            "metadata": {
+                "crawl_time": "2026-07-01 15:36:27",
+                "model": "gemini-2.5-flash",
+                "status": "success"
+            }
+        },
+        {
+            "id": 14,
+            "url": "https://www.shl.com/products/assessments/skills-and-simulations/coding-simulations/",
+            "title": "Coding Simulations | Coding Skills Assessment | SHL",
+            "page_type": "assessment",
+            "summary": "SHL Coding Simulations are a coding skills assessment designed to evaluate software engineering skills across 50+ coding languages. It helps shorten the hiring process by shortlisting 45% more candidates and improving hiring signals for various tech roles like full stack, data engineering, front-end, backend, DevOps, and software architecture.",
+            "parent": {
+                "title": "Skills & Simulations",
+                "url": "https://www.shl.com/products/assessments/skills-and-simulations/"
+            },
+            "children": [],
+            "knowledge": {
+                "overview": "SHL Coding Simulations offer an online coding skills assessment that allows applicants to solve real-life problems by writing and testing their own source code in an Integrated Development Environment (IDE). These simulations are designed to accurately assess technical abilities and reduce false negatives in the hiring process, making it easier to identify qualified software engineering candidates across a wide range of programming languages and roles.",
+                "important_points": [
+                    "Reduces false negatives by 45%, improving hiring signals across programming ability, solution logic, time complexity, and industry best practices.",
+                    "Widens the technical talent pipeline without compromising the quality of hire.",
+                    "Available for a diverse range of software engineering roles including Software Architect, Developer, DevOps, QA, Data Science, Data Engineering, Full-stack, Front-end, and Backend.",
+                    "Leverages preconfigured questions and tests that align with specific hiring bars.",
+                    "Scores the logic of candidate code using a benchmark dataset for detailed reporting."
+                ],
+                "features": [
+                    "Interactive IDE where candidates can write, run, and test their source code.",
+                    "Supports 50+ coding languages.",
+                    "Includes code stubs to streamline the assessment process and simulate familiar coding environments.",
+                    "Provides detailed coding skills reports with easy-to-interpret scores.",
+                    "Offers 80+ ATS integrations for seamless data and process consistency.",
+                    "Individualized assessment platform for each candidate."
+                ],
+                "benefits": [
+                    "Shortlists 45% more qualified software engineering candidates within half the usual hiring time.",
+                    "Accelerates the assessment and hiring process for technical roles.",
+                    "Levels the playing field for all candidates, promoting fair evaluation.",
+                    "Enables quick and informed hiring decisions with clear candidate scores.",
+                    "Offers an easy-to-use experience for both candidates and recruiters."
+                ],
+                "faq": [],
+                "metadata": {
+                    "duration": "",
+                    "remote_testing": "Yes",
+                    "adaptive": "",
+                    "languages": "50+ coding languages",
+                    "job_levels": "Entry to Senior-level (Software Architect, Software Developer, DevOps, QA, Data Science, Data Engineering, Full-stack, Front-end, Backend)",
+                    "assessment_type": "Skills Assessment, Coding Simulation"
+                }
+            },
+            "metadata": {
+                "crawl_time": "2026-07-01 15:36:43",
+                "model": "gemini-2.5-flash",
+                "status": "success"
+            }
+        },
+        {
+            "id": 15,
+            "url": "https://www.shl.com/products/assessments/skills-and-simulations/language-evaluation/",
+            "title": "Language Proficiency Test | Language Assessment | SHL",
+            "page_type": "assessment",
+            "summary": "SHL’s AI-powered suite of communication and language proficiency tests automates language assessment, helping you to faster find and hire the right people.",
+            "parent": "Skills & Simulations",
+            "children": [
+                {
+                    "title": "SHL SVAR",
+                    "url": "https://www.shl.com/products/assessments/skills-and-simulations/language-evaluation/svar/"
+                }
+            ],
+            "knowledge": {
+                "overview": "SHL offers AI-powered language proficiency tests as part of its Skills & Simulations assessment suite. This AI-driven suite of communication and language tests automates language assessment to accelerate the hiring process, helping organizations swiftly identify and onboard candidates with strong language skills who excel at customer satisfaction.",
+                "important_points": [
+                    "SHL recommended candidates were 63% more likely to be high performers.",
+                    "Reduce candidate wait time by 55% with automated evaluation and quick feedback.",
+                    "Evaluate candidates at scale and reduce time to hire by 60%."
+                ],
+                "features": [
+                    "Identifies highly proficient language candidates through spoken language proficiency assessments (mobile, desktop, IVR).",
+                    "Auto-evaluates written English communication for content quality, grammar, and etiquette.",
+                    "Provides comprehensive reports for written English skills, including scores, linguistic errors, and CEFR level scores.",
+                    "Measures real spoken language at scale, assessing speaking, vocabulary, grammar, listening, and comprehension (via SHL SVAR)."
+                ],
+                "benefits": [
+                    "Faster finding and hiring of the right people.",
+                    "Streamlined and automated language assessment process.",
+                    "Swiftly identifies and onboards candidates who excel at customer satisfaction.",
+                    "Provides a reliable signal for language skills, especially in high-volume hiring.",
+                    "Delights candidates with a fast and fair process.",
+                    "Reduces candidate wait time by 55% with automated evaluation and quick feedback.",
+                    "Makes faster hiring decisions by evaluating candidates at scale.",
+                    "Reduces time to hire by 60%."
+                ],
+                "faq": [],
+                "metadata": {
+                    "duration": null,
+                    "remote_testing": "Yes (mobile, desktop, Interactive Voice Response System [IVR])",
+                    "adaptive": null,
+                    "languages": "Spoken language, Written English",
+                    "job_levels": null,
+                    "assessment_type": "Skills & Simulations, Language Proficiency Test, Communication Assessment"
+                }
+            },
+            "metadata": {
+                "crawl_time": "2026-07-01 15:36:58",
+                "model": "gemini-2.5-flash",
+                "status": "success"
+            }
+        },
+        {
+            "id": 16,
+            "url": "https://www.shl.com/products/assessments/skills-and-simulations/call-center-simulations/",
+            "title": "Virtual Call Center Simulation and Assessment Software",
+            "page_type": "assessment",
+            "summary": "SHL's Call Center Simulations and assessment tool helps you to identify agents with the critical competencies and personality in a real-life call center environment to improve performance and customer satisfaction.",
+            "parent": {
+                "title": "Skills & Simulations",
+                "url": "https://www.shl.com/products/assessments/skills-and-simulations/"
+            },
+            "children": [],
+            "knowledge": {
+                "overview": "SHL's Call Center Simulations allow you to assess agents in a real contact center environment, identifying representatives who possess the critical skills to deliver a quality experience to your customers. Candidates immerse themselves in the role of a contact center agent, either listening to a simulated call or interacting with a chat simulation, using a realistic contact center system.",
+                "important_points": [
+                    "49% of call center agents leave within 6 months as they were not the right fit for the job.",
+                    "SHL reduced the hiring of agents with a First Call Rate (FCR) below an acceptable threshold for one customer by 65%.",
+                    "SHL helped customers increase CSAT score by 32% by identifying highly skilled customer service representatives.",
+                    "SHL Contact Center simulations are proven to help reduce time to hire by over 60%."
+                ],
+                "features": [
+                    "Simulate a real-world contact center environment.",
+                    "Candidates interact with simulated calls or chat simulations.",
+                    "Realistic contact center system for candidate immersion.",
+                    "Measures critical customer service skills: Service Orientation, Issue Resolution, Attentiveness, Navigation, Typing Achievement.",
+                    "Ready-to-deploy simulations available for multiple roles.",
+                    "Job simulations available for various industries including Banking, Healthcare, Telecom, Utilities, and Retail.",
+                    "Ability to tailor simulations to specific industry and organizational needs."
+                ],
+                "benefits": [
+                    "Optimize customer service excellence.",
+                    "Improve contact center agent performance.",
+                    "Delight customers by hiring highly skilled representatives.",
+                    "Hire the best agents faster.",
+                    "Reduce unwanted agent attrition by identifying the right fit.",
+                    "Increase Customer Satisfaction (CSAT) scores."
+                ],
+                "faq": [],
+                "metadata": {
+                    "duration": null,
+                    "remote_testing": null,
+                    "adaptive": null,
+                    "languages": null,
+                    "job_levels": "Call Center Agents / Representatives",
+                    "assessment_type": "Skills Simulation"
+                }
+            },
+            "metadata": {
+                "crawl_time": "2026-07-01 15:37:11",
+                "model": "gemini-2.5-flash",
+                "status": "success"
+            }
+        },
+        {
+            "id": 17,
+            "url": "https://www.shl.com/products/assessments/skills-and-simulations/business-skills/",
+            "title": "Business Skills Assessment Test | Computer Literacy Test | SHL",
+            "page_type": "category",
+            "summary": "SHL offers Business Skills Assessment Tests, including computer literacy and Microsoft Office proficiency tests, to provide deep insights into candidates' real-world productivity tool skills through simulations and science-backed questions.",
+            "parent": "Skills & Simulations",
+            "children": [],
+            "knowledge": {
+                "overview": "SHL's Business Skills Assessment Tests are designed to measure candidates' proficiency in using essential productivity tools, such as the Microsoft Office Suite and fundamental computer skills. These assessments engage candidates with real-world simulations and are built on science-backed questions, enabling organizations to make informed hiring decisions and maximize the potential of their workforce.",
+                "important_points": [
+                    "Measures proficiency in key productivity tools.",
+                    "Uses real-world simulations for engagement and practical assessment.",
+                    "Leverages science-backed questions.",
+                    "Covers the Microsoft Office Suite (Excel, Word, Outlook, PowerPoint) and basic computer literacy.",
+                    "Aids in making informed hiring decisions."
+                ],
+                "features": [
+                    "Online Microsoft Office Proficiency Test: Measures proficiency in using key productivity tools across the Microsoft suite.",
+                    "Basic Computer Literacy Test: Utilizes an online test to assess fundamental computer skills in a simulated Microsoft Windows environment.",
+                    "Microsoft Excel Test: Assesses candidates' ability to manage workbooks, analyze and format data, work across multiple tabs or spreadsheets, and print correctly.",
+                    "Microsoft Word Test: Assesses candidates' ability to organize and format content, manage documents, and work with page illustrations and layouts.",
+                    "Microsoft Outlook Test: Assesses candidates' ability to manage contacts, demonstrate email efficiency, and create appointments through the Outlook calendar.",
+                    "Microsoft PowerPoint Test: Assesses candidates' ability to create and format professional presentations, work with graphics and charts, and embed and manipulate multimedia elements."
+                ],
+                "benefits": [
+                    "Engages candidates with real-world simulations.",
+                    "Supports informed hiring decisions by providing deep insights into practical business skills.",
+                    "Helps maximize the potential of a company’s talent through accurate assessment."
+                ],
+                "faq": [],
+                "metadata": {
+                    "duration": null,
+                    "remote_testing": null,
+                    "adaptive": null,
+                    "languages": null,
+                    "job_levels": null,
+                    "assessment_type": "Skills & Simulations, Business Skills Assessment, Computer Literacy Test, Microsoft Office Proficiency Test"
+                }
+            },
+            "metadata": {
+                "crawl_time": "2026-07-01 15:37:24",
+                "model": "gemini-2.5-flash",
+                "status": "success"
+            }
+        },
+        {
+            "id": 18,
+            "url": "https://www.shl.com/products/assessments/job-focused-assessments/",
+            "title": "Job-Focused Assessments",
+            "page_type": "assessment",
+            "summary": "SHL's Job-Focused Assessments are pre-packaged skills assessments designed to measure the key hard and soft skills needed for success in any role. They predict job success by evaluating role-relevant competencies, providing a comprehensive view of a candidate's readiness, team fit, and future potential through short, engaging assessments.",
+            "parent": "Assessments",
+            "children": [
+                {
+                    "title": "Contact Center Roles",
+                    "url": "/solutions/talent-acquisition/volume-hiring/contact-center-hiring/"
+                },
+                {
+                    "title": "Retail and Entry Level Roles",
+                    "url": "/solutions/talent-acquisition/volume-hiring/retail-hiring/"
+                },
+                {
+                    "title": "Manufacturing and Industrial Roles",
+                    "url": "/solutions/talent-acquisition/volume-hiring/manufacturing-hiring/"
+                },
+                {
+                    "title": "Early Career Roles",
+                    "url": "/solutions/talent-acquisition/graduate/"
+                },
+                {
+                    "title": "Professional Roles",
+                    "url": "/solutions/talent-acquisition/professional/"
+                },
+                {
+                    "title": "Managerial Roles",
+                    "url": "/solutions/talent-acquisition/manager/"
+                }
+            ],
+            "knowledge": {
+                "overview": "SHL’s Job-Focused Assessments predict job success by evaluating key hard and soft skills tailored to specific roles. Applicants take a short, engaging assessment relevant to the job, and employers gain a comprehensive view of candidates' role readiness, team fit, and future potential. These assessments are pre-packaged to ensure quick deployment and utilize patented Apta technology for accurate measurement of job-relevant skills.",
+                "important_points": [
+                    "Predicts job success by evaluating hard and soft skills tailored to specific roles.",
+                    "Provides a comprehensive view of candidate's role readiness, team fit, and future potential.",
+                    "Utilizes patented Apta technology for direct measurement of observable competency behaviors.",
+                    "Reduces faking and impression management during assessment.",
+                    "Pre-packaged for quick and efficient deployment in hiring processes.",
+                    "Enables fair decision-making by focusing on skills and growth potential over past experience or formal qualifications."
+                ],
+                "features": [
+                    "Strong Prediction of Success: Get a well-rounded view of each candidate’s potential, readiness, and fit through a single assessment. Uses Apta technology proven to reduce faking and impression management.",
+                    "Engaging and Job-Relevant: Attract best-fit talent with skills assessments directly related to the role they are applying for.",
+                    "Target Key Outcomes for Specific Roles: Measure skills and competencies most important to any specific job or role level, with pre-packaged assessments for quick deployment.",
+                    "Enable Fair Decision-Making: Select candidates based on the skills they possess or their ability and desire to grow, without over-relying on past experience and formal qualifications."
+                ],
+                "benefits": [
+                    "40% less likely to hire tardy production workers.",
+                    "40% more likely to acquire new customers through contact center agents.",
+                    "73% more capable of handling difficult customers through service reps.",
+                    "66% more likely to achieve top sales performance ratings."
+                ],
+                "faq": [],
+                "metadata": {
+                    "duration": null,
+                    "remote_testing": null,
+                    "adaptive": null,
+                    "languages": null,
+                    "job_levels": "Entry Level, Early Career, Professional, Managerial, Contact Center, Retail, Manufacturing/Industrial",
+                    "assessment_type": "Skills Assessment, Job-Focused Assessment"
+                }
+            },
+            "metadata": {
+                "crawl_time": "2026-07-01 15:37:43",
+                "model": "gemini-2.5-flash",
+                "status": "success"
+            }
+        },
+        {
+            "id": 19,
+            "url": "https://www.shl.com/solutions/talent-acquisition/volume-hiring/contact-center-hiring/",
+            "title": "Contact Center Hiring",
+            "page_type": "solution",
+            "summary": "SHL’s Contact Center Hiring Solution engages and identifies high-performing candidates who can deliver improved business outcomes. It helps identify candidates with the skills to deliver excellent customer service and adapt in a fast-changing contact center environment.",
+            "parent": "Volume Hiring Solution",
+            "children": [
+                {
+                    "title": "Volume Hiring",
+                    "url": "https://www.shl.com/solutions/talent-acquisition/volume-hiring/"
+                },
+                {
+                    "title": "Retail Hiring",
+                    "url": "https://www.shl.com/solutions/talent-acquisition/volume-hiring/retail-hiring/"
+                },
+                {
+                    "title": "Manufacturing Hiring",
+                    "url": "https://www.shl.com/solutions/talent-acquisition/volume-hiring/manufacturing-hiring/"
+                }
+            ],
+            "knowledge": {
+                "overview": "SHL’s Contact Center Hiring Solution focuses on engaging and identifying high-performing candidates for customer care roles. It helps businesses measure job-critical customer service skills and identify AI-ready talent, ensuring agents possess essential qualities like ethical standards and adaptability for success in a dynamic contact center environment.",
+                "important_points": [
+                    "The ability to uphold ethical standards regardless of external pressure is one of the ten priority skills that customer service agents need to possess.",
+                    "The solution delivered a 32% increase in Customer Satisfaction Score (CSAT) for a global BPO.",
+                    "Agents hired with SHL are 42% more likely to meet and exceed Average Handle Time (AHT) goals.",
+                    "The solution has reduced time-to-hire by 60% across multiple global call centers.",
+                    "It emphasizes identifying high-performing, customer-focused agents with future-ready skills."
+                ],
+                "features": [
+                    "Job-Relevant Skills Assessments: Assess job-critical customer service skills to gauge readiness, potential, and fit, including identifying AI-ready talent and upskilling needs.",
+                    "Science-Backed Hiring Decisions: Utilize detailed reports, interactive skills dashboards, and job-match indicators for confident talent decisions, recruiting agents who impress customers, boost outcomes, and stay long-term.",
+                    "Memorable Brand Applications: Capture candidates’ attention with immersive, branded experiences throughout customer service recruitment, empowering applicants with interactive, job-relevant tools and simulation assessments.",
+                    "Personalized Candidate Feedback: Provide engaging, automated video feedback focusing on strengths to every applicant, making hiring personal at scale.",
+                    "Customer Service Skills Assessment: Accurately measure job-relevant skills critical for success, quickly and at scale.",
+                    "Realistic Job Preview: Engage the best candidates and dissuade poor-fit ones with detailed job previews.",
+                    "Smart Interviews: Screen candidates at scale with on-demand video interviews, then assess finalists one-on-one.",
+                    "Contact Center Simulations: Reliably assess service centricity, issue resolution, remote-work readiness, and other business-critical factors.",
+                    "AI-Powered Spoken Language Assessment: Evaluate spoken-language skills like pronunciation, fluency, active listening, and grammar for CEFR-level scoring.",
+                    "AI-Powered Written Language Assessment: Assess written language skills for enhancing customer experience, using Natural Language Processing (NLP)."
+                ],
+                "benefits": [
+                    "Hire and retain customer-focused agents with future-ready skills.",
+                    "Deliver improved business outcomes.",
+                    "Recruit agents who impress customers, boost outcomes, and stay long-term.",
+                    "Achieve a 32% increase in customer satisfaction (CSAT).",
+                    "Increase likelihood of agents meeting/exceeding Average Handle Time (AHT) goals by 42%.",
+                    "Reduce time-to-hire by 60%.",
+                    "Drive efficiency, quality, and customer excellence.",
+                    "Obtain a simple-to-deploy solution to meet customer service agent needs."
+                ],
+                "faq": [],
+                "metadata": {
+                    "duration": "",
+                    "remote_testing": "Yes",
+                    "adaptive": "",
+                    "languages": "Multiple (Spoken and Written Language Assessments available)",
+                    "job_levels": "Entry to Mid-level Customer Service roles (e.g., Contact Center Agents)",
+                    "assessment_type": "Skills Assessments, Simulations, Personality Questionnaires, Video Interviews, Language Assessments"
+                }
+            },
+            "metadata": {
+                "crawl_time": "2026-07-01 15:38:07",
+                "model": "gemini-2.5-flash",
+                "status": "success"
+            }
+        },
+        {
+            "id": 20,
+            "url": "https://www.shl.com/solutions/talent-acquisition/volume-hiring/retail-hiring/",
+            "title": "Retail Hiring",
+            "page_type": "solution",
+            "summary": "SHL's Retail Hiring solution helps organizations take a skills-based approach to retail recruitment, identifying high-quality talent to succeed in today’s rapidly evolving retail world. It focuses on quickly identifying individuals with the right skills to thrive and retain them, while also streamlining the recruitment process.",
+            "parent": "Volume Hiring Solution",
+            "children": [],
+            "knowledge": {
+                "overview": "The SHL Retail Hiring solution is designed to address the unique challenges of retail staffing, including intense competition for talent. It enables employers to quickly and accurately identify candidates who possess the essential skills for success in retail roles. By taking a skills-based approach, the solution helps align retail jobs with future skill requirements, fostering an agile workforce and creating an appealing work environment that promotes employee retention. It offers an immersive and rewarding recruitment process aimed at converting strong candidates.",
+                "important_points": [
+                    "SHL assesses 2 million store associates globally every year.",
+                    "Candidates report an 80% Net Promoter Score (NPS) for SHL's engaging, personalized, and interactive assessment experiences.",
+                    "SHL-selected staff have been shown to contribute significantly to business outcomes, including a $78 million annual sales increase for a luxury retailer.",
+                    "The likelihood of SHL-selected staff effectively handling difficult customers increased by 30%."
+                ],
+                "features": [
+                    "Skills-Based Assessment: Accurately measures job-critical retail skills using objective, science-backed assessments, ensuring fairness and precision in hiring. This includes Job Focused Assessments and Retail Situational Judgement Tests.",
+                    "Real-Time Insights: Provides hiring teams with real-time dashboards and actionable Key Performance Indicator (KPI) insights, facilitating consistent and informed hiring decisions across centralized or decentralized teams.",
+                    "Personalized Candidate Experiences: Puts applicants in control of the hiring process and offers realistic job previews to showcase the retail environment, thereby boosting candidate interest.",
+                    "Smart Interview: Utilizes video interviews for efficient shortlisting at scale through on-demand interviews, followed by structured personal interviews for final selection.",
+                    "Tailor-made Feedback: Delivers personalized feedback to each candidate, highlighting their strengths in an engaging manner to elevate the brand's image and create positive, lasting impressions."
+                ],
+                "benefits": [
+                    "Aligns retail jobs with future skills, creating an agile and adaptable workforce.",
+                    "Enables businesses to find high-quality talent necessary for success in the rapidly evolving retail sector.",
+                    "Helps in creating a workplace environment that encourages retail associates to stay, improving retention.",
+                    "Streamlines the recruitment process through an immersive experience, effectively converting promising candidates.",
+                    "Facilitates consistent and informed hiring decisions across diverse teams.",
+                    "Enhances candidate engagement and satisfaction, leading to a strong candidate Net Promoter Score.",
+                    "Contributes to significant business growth and increased sales performance.",
+                    "Improves staff capability in handling difficult customer situations, boosting overall customer satisfaction.",
+                    "Strengthens employer brand by providing positive experiences and feedback to all applicants."
+                ],
+                "faq": [],
+                "metadata": {
+                    "duration": "",
+                    "remote_testing": "",
+                    "adaptive": "",
+                    "languages": "",
+                    "job_levels": "Retail associates, Store staff, Customer-facing roles",
+                    "assessment_type": "Skills-based assessments, Situational Judgement Tests, Video Interviews"
+                }
+            },
+            "metadata": {
+                "crawl_time": "2026-07-01 15:38:30",
+                "model": "gemini-2.5-flash",
+                "status": "success"
+            }
+        },
+        {
+            "id": 21,
+            "url": "https://www.shl.com/solutions/talent-acquisition/volume-hiring/manufacturing-hiring/",
+            "title": "Manufacturing Recruitment | Manufacturing Skills | SHL",
+            "page_type": "solution",
+            "summary": "This page introduces SHL's Manufacturing Hiring Solution, designed to help recruitment teams quickly identify, engage, and convert skilled talent in manufacturing, addressing the growing skills gap in the industry.",
+            "parent": {
+                "title": "Volume Hiring Solution",
+                "url": "https://www.shl.com/solutions/talent-acquisition/volume-hiring/"
+            },
+            "children": [],
+            "knowledge": {
+                "overview": "SHL offers a Skills-First Approach to Manufacturing Hiring, specifically designed to address the growing manufacturing skills gap. It enables recruitment teams to efficiently identify, engage, and convert skilled talent to maintain competitiveness. The solution focuses on the critical skills required for success in the fourth industrial revolution.",
+                "important_points": [
+                    "**Make Hiring Meaningful**: Utilizes job-relevant skills and fit assessments to capture candidate attention and provides value through personalized video feedback, regardless of the hiring outcome.",
+                    "**Make Accurate Hiring Decisions**: Focuses on job-critical skills, such as 'making difficult decisions', to ensure precise hiring. This approach provides accurate skills insights, allowing companies to make confident offers ahead of the competition.",
+                    "**Expand Your Talent Pools**: Moves beyond traditional hiring that limits searches to candidates with prior manufacturing experience. The solution identifies critical skills determined by SHL, enabling evaluation of candidates based on their potential to upskill or reskill."
+                ],
+                "features": [
+                    "**SHL Process Monitoring**: An immersive game-based assessment that evaluates sustained attention, vigilance, and decision-making skills. Candidates interact with a realistic control panel to monitor and respond to instrument feedback within safe control limits, providing actionable insights for securing high-quality talent."
+                ],
+                "benefits": [
+                    "**Attract Manufacturing Talent**: Heineken achieved a 35% increase in candidate success in the final selection over the previous year.",
+                    "**Build Diverse and Inclusive Teams**: Bombardier increased the number of women engineers by 30%, from an applicant pool of less than 20% women.",
+                    "**Reduce Candidate Dropout Rates**: SHL reduced assessment stage dropouts by 65% for a top European manufacturer."
+                ],
+                "faq": [],
+                "metadata": {
+                    "duration": null,
+                    "remote_testing": null,
+                    "adaptive": null,
+                    "languages": null,
+                    "job_levels": "Manufacturing workforce (operational roles)",
+                    "assessment_type": "Job-relevant skills and fit assessments, game-based assessments (Process Monitoring)"
+                }
+            },
+            "metadata": {
+                "crawl_time": "2026-07-01 15:38:44",
+                "model": "gemini-2.5-flash",
+                "status": "success"
+            }
+        },
+        {
+            "id": 22,
+            "url": "https://www.shl.com/solutions/talent-acquisition/graduate/",
+            "title": "Early Career Talent | Graduate Hiring | SHL",
+            "page_type": "solution",
+            "summary": "Elevate your graduate hiring with a skills-based approach and invest in the right early career talent for the future, with SHL.",
+            "parent": "Talent Acquisition",
+            "children": [],
+            "knowledge": {
+                "overview": "SHL's Early Careers and Graduate Hiring solution helps organizations identify early career talent with future-ready skills to build a strong talent pipeline. It enables smarter and fairer hiring decisions by providing trustworthy skills data that supports faster onboarding, stronger development, and future-ready mobility for graduates, apprentices, and interns.",
+                "important_points": [
+                    "A strong graduate hiring strategy is crucial for identifying potential, supporting fair decisions, and building a pipeline of future leaders, while avoiding common mistakes can prevent missing out on top graduates.",
+                    "SHL's in-house people scientists have analyzed over 20,000 graduate assessment scores to provide insights into skill availability across different regions and industries, available in detailed reports (Graduate Profiles by Region and by Industry).",
+                    "A guide on 'Six Considerations for Your Graduate Hiring Program' is available to help establish a long-term, effective graduate recruitment strategy.",
+                    "Key findings from the SHL and The Adecco Group white paper 'Gen Z’s Opportunity is Your Organization’s Gain' highlight: the value of objective assessments, Gen Z's clear expectations from employers, Gen Z's desire to create tangible, positive outcomes, and critical behaviors for Gen Z's workforce transition.",
+                    "SHL is a trusted partner for over 10,000 organizations worldwide, leveraging 45 billion data points for benchmarking and predictive decision-making, resulting in managers being 3x more likely to rate SHL-assessed new hires as 'excellent' after 6 months.",
+                    "The solution also assesses AI readiness in graduates to pinpoint development needs, unlocking productivity, innovation, and ROI."
+                ],
+                "features": [
+                    "Skills-based assessments: Measures skills and behaviors critical for success in early careers roles, including AI readiness.",
+                    "Engaging candidate journey: Provides mobile-first assessments, branded touchpoints, and personalized video feedback.",
+                    "Structured interviewing: Includes on-demand video interviewing for scalability and aligned live interviews for consistent and fair evaluations.",
+                    "Reusable insights: Assessment data can be leveraged beyond hiring for smoother onboarding, targeted development, and talent mobility.",
+                    "Support for various early career paths: Solutions designed for graduates, apprentices, and interns."
+                ],
+                "benefits": [
+                    "Enables smarter and more accurate hiring decisions today with skills data.",
+                    "Fuels faster onboarding, stronger development, and future-ready talent mobility.",
+                    "Helps build a strong talent pipeline for the business.",
+                    "Ensures fair and accurate decisions by focusing on the skills that matter.",
+                    "Identifies potential and supports fair decisions.",
+                    "Enhances candidate engagement and leaves a positive impression of the organization.",
+                    "Streamlines the recruitment process and saves considerable time and money (e.g., automated candidate input).",
+                    "Unlocks productivity, innovation, and ROI by assessing and supporting AI readiness.",
+                    "Results in strong, quality candidates who are a good fit for the organization, with new hires rated as 'excellent' by managers 3x more often."
+                ],
+                "faq": [
+                    {
+                        "question": "What are early careers assessments?",
+                        "answer": "Early careers assessments help organizations identify candidates most likely to succeed in non-managerial roles such as apprentices, interns, or graduates. These assessments can measure skills, potential, and role fit. We recommend choosing scientifically-backed, reliable, and valid assessments to ensure objectivity, accuracy, and legal defensibility in hiring."
+                    },
+                    {
+                        "question": "What type of early careers assessments should I use?",
+                        "answer": "The selection of assessment tools should be driven by the specific requirements and competencies of each role. For example, some skills assessments are ideal for roles where job-specific knowledge and skills are critical, while cognitive ability tests are more suited for roles requiring problem-solving and analytical thinking. Structured interviews can offer insights into a candidate's experience and cultural fit. The key to success is using a combination of these tools that aligns with outcomes critical to the role. SHL's Early Careers Solution is a pre-built package that streamline this process, ensuring that assessments are optimized to meet your hiring needs and deliver valuable insights at every stage of the talent selection process."
+                    },
+                    {
+                        "question": "What skills do early careers assessments evaluate?",
+                        "answer": "SHL's skills assessments measure all 96 skills in our taxonomy, reporting back on a priority of skills that are most predictive of success in early careers roles. This set of skills has been identified through validation studies with thousands of organizations and insights from 45 years of experience and 45 billion data points."
+                    },
+                    {
+                        "question": "At what recruitment stage should I assess graduate candidates?",
+                        "answer": "It depends on candidate volume, dropout concerns, and how much you want to automate interviews. We recommend getting in touch to access our graduate blueprints, which offer research-backed guidance on the best assessment timing for your needs."
+                    }
+                ],
+                "metadata": {
+                    "duration": "",
+                    "remote_testing": "Yes",
+                    "adaptive": "",
+                    "languages": "",
+                    "job_levels": "Early Career, Graduate, Apprentice, Intern (non-managerial)",
+                    "assessment_type": "Skills Assessments, Cognitive Ability Tests, Structured Interviews, Video Interviews"
+                }
+            },
+            "metadata": {
+                "crawl_time": "2026-07-01 15:39:11",
+                "model": "gemini-2.5-flash",
+                "status": "success"
+            }
+        },
+        {
+            "id": 23,
+            "url": "https://www.shl.com/solutions/talent-acquisition/professional/",
+            "title": "Professional Recruitment | Professional Hiring Solutions | SHL",
+            "page_type": "solution",
+            "summary": "SHL's Professional Hiring solution helps organizations measure job-critical skills, future potential, and culture fit for experienced hires. It addresses the challenge of rapidly evolving roles and skills by providing the latest insights and tools for professional recruitment, ensuring confident talent decisions and building a future-proof workforce.",
+            "parent": "Talent Acquisition",
+            "children": [
+                {
+                    "title": "Graduate Hiring",
+                    "url": "/solutions/talent-acquisition/graduate/"
+                },
+                {
+                    "title": "Interviewing",
+                    "url": "/solutions/talent-acquisition/interviewing/"
+                },
+                {
+                    "title": "Technology Hiring",
+                    "url": "/solutions/talent-acquisition/tech-hiring/"
+                },
+                {
+                    "title": "Manager Hiring",
+                    "url": "/solutions/talent-acquisition/manager/"
+                }
+            ],
+            "knowledge": {
+                "overview": "SHL's Professional Hiring Solution provides a data-driven approach to identify top professional talent—candidates with the critical skills for today and the potential to reskill for tomorrow. It aims to equip organizations with relevant hiring criteria to make informed talent decisions that align with evolving business goals, ensuring early effectiveness and long-term impact.",
+                "important_points": [
+                    "SHL leverages 45 billion data points for robust benchmarking and predictive decision-making.",
+                    "Managers are three times more likely to rate new hires assessed by SHL as 'excellent' after six months.",
+                    "88% of candidates rated SHL's clients as their top choice after experiencing the immersive assessment process.",
+                    "The solution helps identify 'AI-ready' professionals with the fluency to multiply impact, accelerate innovation, and maximize AI investments."
+                ],
+                "features": [
+                    "Targeted skills measurement to identify the right talent, whether internal or external.",
+                    "Comprehensive view of critical skills, including AI readiness, and potential for reskilling.",
+                    "Streamlined process with easy ATS integration.",
+                    "Personalized candidate experiences, reflecting organizational values and providing automated, in-the-moment video feedback.",
+                    "Smart Interview Professional Solution for structured, science-based interviews (virtual or face-to-face) with interviewer analytics.",
+                    "Generation of development and motivation insights from pre-hire assessments to inform onboarding and career plans."
+                ],
+                "benefits": [
+                    "Empowers organizations to make confident hiring decisions aligned with organizational goals and evolving roles.",
+                    "Drives early effectiveness and impact from day one through effective onboarding.",
+                    "Enables objective candidate comparison and removes bias from the selection process.",
+                    "Helps retain a future-proof workforce capable of adapting to changing priorities.",
+                    "Creates meaningful connections with candidates, enhancing employer brand and engagement.",
+                    "Improves fairness, consistency, and overall hiring outcomes through structured interviewing.",
+                    "Maximizes the impact of experienced hires by leveraging assessment data for personalized development plans and career-pathing."
+                ],
+                "faq": [
+                    {
+                        "question": "When hiring professionals, is experience a good predictor of success?",
+                        "answer": "Experience alone does not indicate successful integration or tenure. It's vital to evaluate what candidates have learned from past experiences and focus directly on knowledge, skills, and personality traits rather than using experience as a proxy."
+                    },
+                    {
+                        "question": "Why is it important to evaluate experienced hires with consistent scientific tools?",
+                        "answer": "A data-driven approach using objective measurement provides a full picture of a candidate's capability, readiness for the job, organizational fit, and future potential for growth. This leads to better selection outcomes, reduced bias, and easier candidate comparison."
+                    },
+                    {
+                        "question": "How can an organization go about hiring professionals with a balance of skills for today and potential for tomorrow?",
+                        "answer": "Given the rapid evolution of roles and skills, assessing an individual’s reskilling potential is crucial. SHL’s professional hiring solution provides a comprehensive view of critical current skills and the ability and willingness to acquire new skills for the future."
+                    },
+                    {
+                        "question": "Why is candidate experience particularly important when hiring professionals?",
+                        "answer": "Experienced candidates are more selective. Organizations can stand out by building strong connections through showcasing company mission/values via videos and providing auto-generated, personalized feedback immediately, making the process a valuable experience regardless of the outcome."
+                    },
+                    {
+                        "question": "How can an organization get better at interviewing for experienced hires?",
+                        "answer": "SHL's Smart Interview Professional Solution helps conduct focused, structured interviews (face-to-face or virtually). It combines structure, science, and analytics to transform interviews into a reliable, data-driven tool, optimizing interviewer performance and improving fairness and consistency."
+                    },
+                    {
+                        "question": "Once they are on board, how can an organization maximize the impact of their experienced hires?",
+                        "answer": "Reusing talent insights from pre-hire assessments can build development plans. This data can inform tailored onboarding programs, assigning first projects based on strengths and motivations, and supporting long-term career-pathing, keeping experienced hires engaged for longer."
+                    }
+                ],
+                "metadata": {
+                    "duration": null,
+                    "remote_testing": null,
+                    "adaptive": null,
+                    "languages": null,
+                    "job_levels": "Professional, Experienced Hires",
+                    "assessment_type": "Skills-based assessment, Behavioral assessments, Cognitive assessments (implied for professional roles), Interviewing, Reskilling potential assessment"
+                }
+            },
+            "metadata": {
+                "crawl_time": "2026-07-01 15:39:32",
+                "model": "gemini-2.5-flash",
+                "status": "success"
+            }
+        },
+        {
+            "id": 24,
+            "url": "https://www.shl.com/solutions/talent-acquisition/manager/",
+            "title": "Manager Recruitment | Manager Hiring Solutions | SHL",
+            "page_type": "solution",
+            "summary": "SHL's Manager Hiring Solution provides data-driven tools and criteria to identify exceptional people managers. Leveraging insights from 45 million annual assessments, it helps organizations find managers who will make a lasting impact, integrate with existing systems, and drive early effectiveness through targeted support.",
+            "parent": "Talent Acquisition",
+            "children": [
+                {
+                    "title": "Graduate Hiring",
+                    "url": "https://www.shl.com/solutions/talent-acquisition/graduate/"
+                },
+                {
+                    "title": "Volume Hiring",
+                    "url": "https://www.shl.com/solutions/talent-acquisition/volume-hiring/"
+                },
+                {
+                    "title": "Technology Hiring",
+                    "url": "https://www.shl.com/solutions/talent-acquisition/tech-hiring/"
+                },
+                {
+                    "title": "Professional Hiring",
+                    "url": "https://www.shl.com/solutions/talent-acquisition/professional/"
+                }
+            ],
+            "knowledge": {
+                "overview": "SHL's Manager Hiring Solution provides a powerful, data-driven approach to manager recruitment, leveraging insights from 45 million annual assessments to identify the skills and behaviors that define exceptional people managers. It offers up-to-date tools and hiring criteria within an intuitive platform, integrating seamlessly with Applicant Tracking Systems. The solution helps organizations simplify manager recruitment by providing a single view of talent data, prioritizing key attributes, and enabling the reuse of insights for onboarding and reskilling potential.",
+                "important_points": [
+                    "Based on 45 billion data points to support manager recruitment.",
+                    "Uses ongoing analysis to provide up-to-date tools and manager hiring criteria.",
+                    "Offers a single source of talent intelligence for skills and behaviors critical for people management.",
+                    "Identifies managers who are 'AI-ready' and can work with AI systems.",
+                    "Integrates with over 80 leading applicant tracking systems for streamlined processes.",
+                    "Engages candidates with a valuable and personalized assessment experience.",
+                    "Provides actionable insights for effective onboarding and long-term performance enhancement.",
+                    "Aims to increase manager diversity, impact, and retention through accurate talent decisions.",
+                    "Supported by research on the behavioral profile of successful modern managers."
+                ],
+                "features": [
+                    "Comprehensive dashboards for a single view of talent data.",
+                    "Clear set of attributes for prioritizing candidate selection.",
+                    "Ability to identify AI-ready managers.",
+                    "Seamless integration with Applicant Tracking Systems (ATS).",
+                    "Customizable candidate experience, including warm welcome messages.",
+                    "Actionable insights for onboarding and development.",
+                    "Manager selection dashboard for recruiters.",
+                    "Explainer videos and interactive tours demonstrating the solution."
+                ],
+                "benefits": [
+                    "Access unparalleled insights into what makes a manager successful.",
+                    "Identify exceptional individuals who will make a lasting impact.",
+                    "Simplify and streamline the manager recruitment process.",
+                    "Build a thriving workforce with effective people managers.",
+                    "Enhance immediate impact and long-term performance of new hires.",
+                    "Increase manager diversity, overall impact, and retention.",
+                    "Achieve better quality of hire with minimized bias, diverse, and inclusive testing (customer testimonial).",
+                    "Potential for significant cost savings and reduction in time to hire (customer testimonial)."
+                ],
+                "faq": [],
+                "metadata": {
+                    "duration": null,
+                    "remote_testing": null,
+                    "adaptive": null,
+                    "languages": null,
+                    "job_levels": "Manager",
+                    "assessment_type": "Behavioral assessments, skills assessments (focus on people management capabilities)"
+                }
+            },
+            "metadata": {
+                "crawl_time": "2026-07-01 15:39:53",
+                "model": "gemini-2.5-flash",
+                "status": "success"
+            }
+        }
+    ]
+}

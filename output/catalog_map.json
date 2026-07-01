@@ -1,0 +1,401 @@
+{
+    "families": [
+        [
+            {
+                "name": "Behavioral Assessments",
+                "summary": "These assessments provide insights into how candidates are likely to behave in various work situations and interact with others. They help predict workplace performance, team fit, and leadership potential.",
+                "business_problems": [
+                    "teamwork",
+                    "leadership potential",
+                    "customer service effectiveness",
+                    "sales effectiveness",
+                    "adaptability",
+                    "communication style",
+                    "conflict resolution",
+                    "cultural fit",
+                    "employee engagement"
+                ],
+                "typical_roles": [
+                    "Manager",
+                    "Team Leader",
+                    "Sales Executive",
+                    "Customer Support Representative",
+                    "Project Manager",
+                    "Graduate"
+                ],
+                "clarification_questions": [
+                    "Are you looking to understand how candidates interact with others?",
+                    "Is teamwork or collaboration important for this role?",
+                    "Do you need to assess leadership potential?",
+                    "How critical is a candidate's communication style?",
+                    "Are you concerned with a candidate's approach to problem-solving in social contexts?"
+                ],
+                "children": []
+            },
+            {
+                "name": "Virtual Assessment & Development Centers",
+                "summary": "These are comprehensive, multi-exercise experiences designed to evaluate a wide range of competencies and potential for senior or critical roles. They offer a deep dive into an individual's capabilities through realistic simulations.",
+                "business_problems": [
+                    "leadership development",
+                    "high-potential identification",
+                    "succession planning",
+                    "senior executive hiring",
+                    "strategic role placement",
+                    "competency evaluation"
+                ],
+                "typical_roles": [
+                    "Senior Manager",
+                    "Executive",
+                    "Director",
+                    "High-Potential Employee",
+                    "Project Lead"
+                ],
+                "clarification_questions": [
+                    "Are you hiring for senior-level or critical leadership positions?",
+                    "Do you need a comprehensive view of a candidate's potential for growth?",
+                    "Is developing existing talent a key objective?",
+                    "Are you looking to assess a broad range of skills through multiple interactions?",
+                    "Is succession planning a current priority?"
+                ],
+                "children": []
+            },
+            {
+                "name": "Personality Assessments",
+                "summary": "These tools help understand an individual's preferred ways of thinking, feeling, and behaving. They are used to predict job performance, identify cultural fit, and understand motivational drivers.",
+                "business_problems": [
+                    "cultural fit",
+                    "team dynamics",
+                    "role suitability",
+                    "motivation drivers",
+                    "work style alignment",
+                    "employee retention"
+                ],
+                "typical_roles": [
+                    "Sales Executive",
+                    "Customer Service Representative",
+                    "Operations Manager",
+                    "Marketing Specialist",
+                    "Any role where team and culture fit are crucial"
+                ],
+                "clarification_questions": [
+                    "Is understanding a candidate's preferred work style important for the role?",
+                    "Are you looking for specific traits like conscientiousness or openness to change?",
+                    "How critical is cultural fit to your organization?",
+                    "Do you want to predict long-term employee engagement and retention?",
+                    "Are you looking to build diverse teams with complementary styles?"
+                ],
+                "children": []
+            },
+            {
+                "name": "Cognitive Assessments",
+                "summary": "These assessments measure an individual's ability to think, reason, and solve problems quickly and effectively. They are crucial for roles requiring rapid learning, critical thinking, and complex decision-making.",
+                "business_problems": [
+                    "learning agility",
+                    "problem-solving ability",
+                    "critical thinking",
+                    "decision-making",
+                    "ability to grasp new concepts",
+                    "information processing speed"
+                ],
+                "typical_roles": [
+                    "Analyst",
+                    "Software Engineer",
+                    "Consultant",
+                    "Manager",
+                    "Graduate",
+                    "Technical Specialist"
+                ],
+                "clarification_questions": [
+                    "Does the role require rapid learning and adaptation?",
+                    "Is complex problem-solving a daily task?",
+                    "How important is critical thinking for this position?",
+                    "Do candidates need to quickly process and understand new information?",
+                    "Are you hiring for roles that require strong analytical skills?"
+                ],
+                "children": []
+            },
+            {
+                "name": "Skills and Simulations",
+                "summary": "These assessments directly evaluate a candidate's current job-specific skills and how they perform in realistic work scenarios. They confirm job readiness and practical application of knowledge.",
+                "business_problems": [
+                    "technical skill validation",
+                    "practical problem-solving",
+                    "job readiness",
+                    "application of knowledge",
+                    "role-specific competency",
+                    "software proficiency",
+                    "coding ability"
+                ],
+                "typical_roles": [
+                    "Software Engineer",
+                    "Customer Support",
+                    "Sales Executive",
+                    "Data Analyst",
+                    "IT Professional",
+                    "Project Manager"
+                ],
+                "clarification_questions": [
+                    "Do you need to verify specific technical or software skills?",
+                    "Is demonstrating practical application of knowledge important?",
+                    "Are you looking to see how candidates perform in real-world job tasks?",
+                    "Do you need to assess immediate job readiness?",
+                    "Which specific skills are paramount for this role?"
+                ],
+                "children": []
+            },
+            {
+                "name": "Job Focused Assessments",
+                "summary": "These are tailored assessment packages designed to evaluate the most critical capabilities for specific job families or roles. They streamline hiring for common positions and ensure a strong match for defined roles.",
+                "business_problems": [
+                    "hiring for specific job families (e.g., sales, customer service)",
+                    "streamlining high-volume hiring for defined roles",
+                    "ensuring fit for common organizational roles",
+                    "standardizing assessment for frequently hired positions",
+                    "reducing time-to-hire for specific job types"
+                ],
+                "typical_roles": [
+                    "Sales Representative",
+                    "Customer Service Agent",
+                    "Graduate",
+                    "Frontline Manager",
+                    "IT Support",
+                    "Operations Staff"
+                ],
+                "clarification_questions": [
+                    "Are you hiring for a common job family like sales or customer service?",
+                    "Do you need a pre-packaged solution for a specific type of role?",
+                    "Is efficiency in hiring for a particular job title a key concern?",
+                    "Are you looking to standardize assessments across similar roles?",
+                    "What specific job title or industry vertical are you hiring for?"
+                ],
+                "children": []
+            }
+        ],
+        {
+            "name": "SHL Behavioral Assessments",
+            "summary": "These assessments identify candidates' behavioral fit for roles and organizational culture through engaging, interactive tests. They help improve hiring quality and increase recruitment efficiency by providing objective data.",
+            "business_problems": [
+                "cultural fit",
+                "hiring quality",
+                "recruitment efficiency",
+                "reducing mis-hires",
+                "talent development"
+            ],
+            "typical_roles": [
+                "All professional roles"
+            ],
+            "clarification_questions": [
+                "Are you primarily looking to assess a candidate's fit with your company culture or specific team dynamics?",
+                "At what stage of your hiring process do you want to introduce these assessments?",
+                "Are there specific behavioral skills or competencies that are critical for success in this role?",
+                "Do you want candidates to experience realistic job scenarios before committing to the role?",
+                "Are you looking for an efficient way to screen a large volume of applicants?"
+            ],
+            "children": [
+                {
+                    "title": "Global Skills Assessment (GSA)",
+                    "url": "https://www.shl.com/products/assessments/behavioral-assessments/global-skills-assessment-gsa/"
+                },
+                {
+                    "title": "Universal Competency Framework (UCF)",
+                    "url": "https://www.shl.com/products/assessments/behavioral-assessments/universal-competency-framework/"
+                },
+                {
+                    "title": "Realistic Job Previews",
+                    "url": "https://www.shl.com/products/assessments/behavioral-assessments/realistic-job-and-culture-previews-rjp/"
+                },
+                {
+                    "title": "Situational Judgement Tests",
+                    "url": "https://www.shl.com/products/assessments/behavioral-assessments/situation-judgement-tests-sjt/"
+                }
+            ]
+        },
+        {
+            "name": "Personality Assessments",
+            "summary": "These assessments reveal candidate preferences, motivations, and remote-work capability to improve hiring and talent development across various stages of the employee lifecycle. They provide science-backed insights to build an engaged and high-performing workforce.",
+            "business_problems": [
+                "hiring decisions",
+                "employee engagement",
+                "team effectiveness",
+                "talent development",
+                "leadership development",
+                "succession planning",
+                "remote work suitability",
+                "workforce realignment"
+            ],
+            "typical_roles": [
+                "All roles",
+                "Entry-level roles",
+                "Mid-level roles",
+                "Senior roles",
+                "Leadership roles",
+                "Team members"
+            ],
+            "clarification_questions": [
+                "Are you primarily looking to assess new hires or develop existing employees?",
+                "Is your goal to improve individual performance, team dynamics, or leadership potential?",
+                "Do you need to evaluate a candidate's suitability for a remote or hybrid work environment?",
+                "Are you focused on identifying future leaders or planning for internal promotions?",
+                "What specific job level or type of role are you assessing?"
+            ],
+            "children": [
+                {
+                    "title": "SHL Occupational Personality Questionnaire (OPQ)",
+                    "url": "/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/"
+                },
+                {
+                    "title": "SHL Motivational Questionnaire (MQ)",
+                    "url": "/products/assessments/personality-assessment/shl-motivation-questionnaire-mq/"
+                }
+            ]
+        },
+        {
+            "name": "Cognitive Ability",
+            "summary": "These assessments measure a candidate's potential to learn, adapt, and succeed in any role. They help identify individuals who can quickly grasp new information and solve complex problems.",
+            "business_problems": [
+                "Problem-solving",
+                "Critical thinking",
+                "Adaptability",
+                "Learning agility",
+                "High-potential hiring",
+                "Strategic thinking"
+            ],
+            "typical_roles": [
+                "Manager",
+                "Analyst",
+                "Consultant",
+                "Graduate",
+                "Engineer",
+                "Project Lead",
+                "Data Scientist"
+            ],
+            "clarification_questions": [
+                "Does the role require rapid learning and adaptability?",
+                "Will candidates face complex problems or critical decisions?",
+                "Is interpreting data or numerical information key for success?",
+                "Do you need individuals who can spot patterns and draw logical conclusions?",
+                "Are you seeking high-potential candidates for future growth?"
+            ],
+            "children": []
+        },
+        {
+            "name": "Skills and Job Simulations",
+            "summary": "This assessment family helps measure candidates' practical application and knowledge to scale the search for highly skilled talent. It offers expert-validated questions and realistic job simulations across a wide range of roles and industries.",
+            "business_problems": [
+                "skill validation",
+                "technical proficiency",
+                "coding ability",
+                "language proficiency",
+                "customer service skills",
+                "business acumen",
+                "high-volume screening",
+                "recruitment efficiency",
+                "reducing mis-hires",
+                "identifying qualified candidates"
+            ],
+            "typical_roles": [
+                "Software Engineer",
+                "Developer",
+                "IT Professional",
+                "Customer Service Representative",
+                "Call Center Agent",
+                "Sales Executive (multilingual)",
+                "Office Administrator",
+                "Entry-level Staff",
+                "Graduate",
+                "Data Analyst",
+                "System Administrator"
+            ],
+            "clarification_questions": [
+                "What specific skills are most critical for the role?",
+                "Are you looking to assess technical (e.g., IT, coding), language, or general business capabilities?",
+                "Is the role focused on software development or IT support?",
+                "Is language proficiency a key requirement, and for which languages?",
+                "Are you hiring for customer-facing roles like a call center or customer support?"
+            ],
+            "children": [
+                {
+                    "title": "Technical Skills",
+                    "url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/"
+                },
+                {
+                    "title": "Coding Simulations",
+                    "url": "https://www.shl.com/products/assessments/skills-and-simulations/coding-simulations/"
+                },
+                {
+                    "title": "Language Skills",
+                    "url": "https://www.shl.com/products/assessments/skills-and-simulations/language-evaluation/"
+                },
+                {
+                    "title": "Contact Center Simulation",
+                    "url": "https://www.shl.com/products/assessments/skills-and-simulations/call-center-simulations/"
+                },
+                {
+                    "title": "Business Skills",
+                    "url": "https://www.shl.com/products/assessments/skills-and-simulations/business-skills/"
+                }
+            ]
+        },
+        {
+            "name": "Technical Skill Assessment",
+            "summary": "This assessment family helps validate a candidate's knowledge across a wide range of technology concepts and IT domains. It efficiently screens technical talent, often including practical coding and programming simulations.",
+            "business_problems": [
+                "technical skill validation",
+                "software engineering hiring",
+                "data science hiring",
+                "cloud computing skills",
+                "DevOps hiring",
+                "database management skills",
+                "coding ability",
+                "machine learning hiring",
+                "data engineering hiring"
+            ],
+            "typical_roles": [
+                "Software Engineer",
+                "Data Scientist",
+                "DevOps Engineer",
+                "Cloud Engineer",
+                "Data Engineer",
+                "Machine Learning Engineer",
+                "Database Administrator",
+                "Front-end Developer",
+                "Full-stack Developer"
+            ],
+            "clarification_questions": [
+                "What specific technical skills or programming languages are you looking to evaluate?",
+                "Is the primary need to test theoretical knowledge or practical coding skills?",
+                "Which specific IT domain (e.g., Cloud, Data Science, Software Development) is most relevant?",
+                "Are you hiring for an entry-level or an experienced technical position?"
+            ],
+            "children": []
+        },
+        {
+            "name": "Business Skills Assessment",
+            "summary": "This assessment family evaluates a candidate's practical proficiency with essential digital productivity tools and fundamental computer skills. It helps ensure new hires can effectively use software like Microsoft Office for daily business operations.",
+            "business_problems": [
+                "digital literacy",
+                "office productivity",
+                "data management",
+                "professional communication",
+                "presentation creation",
+                "software proficiency validation"
+            ],
+            "typical_roles": [
+                "Administrative Assistant",
+                "Office Coordinator",
+                "Data Entry Specialist",
+                "Executive Assistant",
+                "Customer Service Representative",
+                "Sales Support",
+                "Graduate"
+            ],
+            "clarification_questions": [
+                "Which specific software applications (e.g., Excel, Word, Outlook, PowerPoint) are most crucial for the role?",
+                "What level of proficiency is needed for these tools (e.g., basic functions, advanced features, or general computer literacy)?",
+                "Will the role involve heavy data analysis, document creation, managing emails, or building presentations?",
+                "Are there specific tasks the candidate must perform, such as creating pivot tables, managing mail merges, or scheduling meetings?"
+            ],
+            "children": []
+        }
+    ]
+}
